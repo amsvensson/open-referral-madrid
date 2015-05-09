@@ -25,7 +25,10 @@ Data, sources, files, etc
 -------------------------
 - [x] Print HSDS Schema overview
 
-
+First approximation:
+- [ ] Download a suitable file manually
+- [ ] Got through the headers, see how they fit with the HSDS schema
+- [ ] _Possibly_ transform with Open Refine
 
 
 Front-End
