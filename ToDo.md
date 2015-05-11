@@ -39,6 +39,6 @@ Back-End, Deployment
 --------------------
 - [x] Sync changes in Ohana
 - [x] Install PuTTY and WinSCP
-- [] Install Ohana API locally
+- [ ] Install Ohana API locally
   - [x] Ask for help (create new issue) on how access the rails server
   
