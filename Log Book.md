@@ -47,7 +47,7 @@ Steps:
 - Had to redo these steps, installing ruby and rails, to manage to launch the Ohana API
 	- [x] Log in to the virtual machine via SSH
 	- [x] Bootstrap Ohana API in the VM
-~~- [] Launch Ohana API~~ - Unable to get it to work. Get the rails server up and running, but nothing on http://localhost:8080
+- [] ~~Launch Ohana API~~ - Unable to get it to work. Get the rails server up and running, but nothing on http://localhost:8080
 
 Commands to run for setting it up:
 > with git bash, navigate to ohana-api-dev-box
@@ -59,7 +59,7 @@ rails s -p 8080
 
 Trying.....googling.... trying....googling.... trying, ugh.
 
-Will try to install it on my computer without the VirtualBox instead!
+* Will try to install it on my computer without the VirtualBox instead!
 Ugh..
 - [x] Install [Ruby 2.1.6](http://rubyinstaller.org/downloads/) (32 bit version)
 - [x] Install RubyGems: >> gem update --system
@@ -67,6 +67,7 @@ Ugh..
 	- [x] [Install DevKit](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit): 
 	- [x] ruby dk.rb init
 	- [x] ruby dk.rb install
+
 With *git bash* (not window's command window!)
 Following commands from https://github.com/codeforamerica/howto/blob/master/Ruby.md
 	- [x] Install RVM with the latest version of Ruby: curl -L https://get.rvm.io | bash -s stable --autolibs=enabled --ruby
@@ -77,13 +78,15 @@ Following commands from https://github.com/codeforamerica/howto/blob/master/Ruby
 100 22721  100 22721    0     0  13341      0  0:00:01  0:00:01 --:--:-- 13341
 BASH 3.2.25 required (you have 3.1.0(1)-release)
 ```
+
 	- [x] skip downloading of documentation for each gem by adding a global no-document configuration to the .gemrc file: echo "gem: --no-document" >> ~/.gemrc
 - [x] Install rails: >> gem install rails
+
 ```
 Successfully installed rails-4.2.1
 ```
 
-Now following https://github.com/codeforamerica/howto/blob/master/PostgreSQL.md
+* Now following https://github.com/codeforamerica/howto/blob/master/PostgreSQL.md
 There are no instructions for windows, so I went to the PostgreSQL page instead.
 - [x] Download & Install  [PostgreSQL](http://www.enterprisedb.com/postgresql-941-installers-win32?ls=Crossover&type=Crossover)
 
@@ -93,7 +96,7 @@ Now, clone the Ohana API and set up:
 - [x] add "C:\Program Files (x86)\PostgreSQL\9.4\bin\psql.exe" to Windows PATH (Environment variables)
 Nope, still not working. Have to install puma...
 
-Now following instructions on: https://github.com/hicknhack-software/rails-disco/wiki/Installing-puma-on-windows
+* Now following instructions on: https://github.com/hicknhack-software/rails-disco/wiki/Installing-puma-on-windows
 Doesn't work either.
 
 ..Giving up..
@@ -104,6 +107,7 @@ Uninstall:
 - [x] Ruby
 - [x] DevKit
 - [x] PostgreSQL
+
 (_Oh, my poor registry_..)
 
 
