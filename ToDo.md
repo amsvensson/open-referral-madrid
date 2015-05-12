@@ -5,7 +5,7 @@ Schedule / Specific Days
 ------------------------
 ### Tuesday ###
 - [ ] Meet with Lorena
-  - [ ] Look into web interface, how to do translation, so she can start!
+  - [x] Look into web interface, how to do translation, so she can start!
 
 
 Technical issues, meta-tasks
@@ -43,10 +43,13 @@ Back-End, Deployment
   - [x] Ask for help (create new issue) on how access the rails server
 
   
+  
+  
 Translation
 -----------
-- [ ] Copy config/locales/en.yml to a new file called “es.yml” in the same directory, and then translate the values for each key. 
-- [ ] Uncomment and change the default locale to “:es” in https://github.com/codeforamerica/ohana-api/blob/master/config/application.rb#L40
+- [x] Copy config/locales/en.yml to a new file called “es.yml” in the same directory, 
+- [ ] Translate the values for each key. 
+- [x] Uncomment and change the default locale to “:es” in https://github.com/codeforamerica/ohana-api/blob/master/config/application.rb#L40
 - [ ] Submit a pull request with the “config/locales/es.yml” file to the ohana-api repo
 
 

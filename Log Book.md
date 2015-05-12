@@ -99,8 +99,7 @@ Nope, still not working. Have to install puma...
 * Now following instructions on: https://github.com/hicknhack-software/rails-disco/wiki/Installing-puma-on-windows
 Doesn't work either.
 
-..Giving up..
--------------
+###..Giving up..###
 Going to ask for help, ideally if someone could set it up for me on heroku.
 
 Uninstall:
@@ -112,15 +111,29 @@ Uninstall:
 
 ---
 
-Datos
------
+###Datos###
 ~~Going to start downloading and looking at the data instead. Hopefully while I work on the data transformations, I can get help setting up Ohana API!~~
 Went to get help to install it on the linux virtual machine that we have access to here at media-lab prado. We're still at it, but permissions are getting in the way..
 
-Late Night update!
-------------------
+###Late Night update!###
 My issue on github was heard, and with a simple change of command
-```~~rails s -p 8080~~ --> puma -p 8080 ``` I can now reach http://localhost:8080 correctly and see the admin interface!!
+```~~rails s -p 8080~~ --> puma -p 8080 ``` I can now reach http://localhost:8080 correctly and see the developer and admin interfaces!!
+
+
+Tuesday, 12 May 2015
+--------------------
+Adolfo tugged on, trying to get it to work on the linux (debian) virtual machine here at media-lab prado. After much struggle, and help from another person, we (they) finally got it to work! I finally got access to (two!) working copies of the Ohana API, and will go on to i) quickly look at some customizations, and ii) get cracking on the data!
+
+
+
+
+
+
+
+
+
+
+
 
 
 
