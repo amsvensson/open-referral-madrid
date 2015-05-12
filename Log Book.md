@@ -79,7 +79,7 @@ Following commands from https://github.com/codeforamerica/howto/blob/master/Ruby
 BASH 3.2.25 required (you have 3.1.0(1)-release)
 ```
 
-	- [x] skip downloading of documentation for each gem by adding a global no-document configuration to the .gemrc file: echo "gem: --no-document" >> ~/.gemrc
+- [x] skip downloading of documentation for each gem by adding a global no-document configuration to the .gemrc file: echo "gem: --no-document" >> ~/.gemrc
 - [x] Install rails: >> gem install rails
 
 ```
@@ -109,6 +109,18 @@ Uninstall:
 - [x] PostgreSQL
 
 (_Oh, my poor registry_..)
+
+---
+
+Datos
+-----
+~~Going to start downloading and looking at the data instead. Hopefully while I work on the data transformations, I can get help setting up Ohana API!~~
+Went to get help to install it on the linux virtual machine that we have access to here at media-lab prado. We're still at it, but permissions are getting in the way..
+
+Late Night update!
+------------------
+My issue on github was heard, and with a simple change of command
+```~~rails s -p 8080~~ --> puma -p 8080 ``` I can now reach http://localhost:8080 correctly and see the admin interface!!
 
 
 
