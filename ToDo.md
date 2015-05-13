@@ -1,6 +1,28 @@
 Big To Do List
 ==============
 
+Overview
+--------
+### Ohana API ###
+- [x] Install Ohana API locally
+- [x] (Customize) Ohana API and set Settings
+- [ ] Translate Ohana API
+- [ ] Deploy to Heroku
+
+
+### Data ###
+_NB: In this first implementation, everything with have to be done manually, to get it done fast. Later, we could (I would want to) implement scripts to download and parse data automatically._
+- [x] Download data from datos.madrid.es
+- [ ] Read "[Prepare your data] (https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Postgres-database-from-the-Human-Services-Data-Specification-%28HSDS%29-compliant-CSV-files)"
+- [ ] Change headers to conform to the HSDS
+
+### Ohana Web Search ###
+
+
+
+
+
+
 Schedule / Specific Days
 ------------------------
 ### Tuesday ###
@@ -48,9 +70,20 @@ Back-End, Deployment
 Translation
 -----------
 - [x] Copy config/locales/en.yml to a new file called “es.yml” in the same directory, 
-- [ ] Translate the values for each key. 
+- [ ] Translate the values for each key.
+  - [x] Send files to Lorena
+  - [x] Partially translate settings.yml
+  - [ ] Finish translate settings.yml (?) (Low priority at this moment)
 - [x] Uncomment and change the default locale to “:es” in https://github.com/codeforamerica/ohana-api/blob/master/config/application.rb#L40
+  - [ ] Ask if opening key "en:" should be changed to "es:"
+- [ ] Raise issue: Add to instruction about translation that it is also needed in settings.yml file
 - [ ] Submit a pull request with the “config/locales/es.yml” file to the ohana-api repo
+
+
+FOR LATER, AFTER THE WORKSHOP!
+------------------------------
+- [ ] Change things (regions, funding bodies, etc) in config/settings.yml in the Ohana API
+- [ ] /If someone takes over the project/, change contact e-mail address in config/settings.yml !
 
 
 

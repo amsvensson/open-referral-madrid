@@ -124,9 +124,17 @@ Tuesday, 12 May 2015
 --------------------
 Adolfo tugged on, trying to get it to work on the linux (debian) virtual machine here at media-lab prado. After much struggle, and help from another person, we (they) finally got it to work! I finally got access to (two!) working copies of the Ohana API, and will go on to i) quickly look at some customizations, and ii) get cracking on the data!
 
+Finished tasks from ToDo:
+- [x] Customize Ohana API - read through, no customizations needed at this point
+- [x] Send translation files to Lorena
+- [x] Change Settings for Ohana API (config/settings.yml)  <-- **important! more to do here for later!**
+
+- Added a bunch of tasks to ToDo
 
 
-
+Wednesday, 13 May 2015
+----------------------
+At the other branch of the project, they have been trying to get ckan up and running, and ran into problems as well - to the point that Gabriel has now set up an Ubuntu virtual machine, in addition to the Debian we had been using. Seeing that I now have access to an Ubuntu machine, and that it seemed that a lot of the problems we ran into with the installation was due to Debian, I will probably try to install the Ohana API on the Ubuntu machine later on. However, first I am going to start on the data, which I foresee will take me quite some effort to get right...
 
 
 
