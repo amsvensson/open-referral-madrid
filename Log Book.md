@@ -117,7 +117,8 @@ Went to get help to install it on the linux virtual machine that we have access 
 
 ###Late Night update!###
 My issue on github was heard, and with a simple change of command
-```~~rails s -p 8080~~ --> puma -p 8080 ``` I can now reach http://localhost:8080 correctly and see the developer and admin interfaces!!
+~~```rails s -p 8080```~~ --> ```puma -p 8080``` 
+I can now reach http://localhost:8080 correctly and see the developer and admin interfaces!!
 
 
 Tuesday, 12 May 2015
@@ -136,11 +137,39 @@ Wednesday, 13 May 2015
 ----------------------
 At the other branch of the project, they have been trying to get ckan up and running, and ran into problems as well - to the point that Gabriel has now set up an Ubuntu virtual machine, in addition to the Debian we had been using. Seeing that I now have access to an Ubuntu machine, and that it seemed that a lot of the problems we ran into with the installation was due to Debian, I will probably try to install the Ohana API on the Ubuntu machine later on. However, first I am going to start on the data, which I foresee will take me quite some effort to get right...
 
+###Populating the database - Steps taken###
+- Copy all csv-files in the ```ohana-api-madrid/data/sample-csv``` directory to my project directory ```ohana-importer-madrid/data/csv-templates```
+- File by file, go in and delete all the data - leave only the headers (except for the 'taxonomy.csv' file).
+
+####[Info about the files](https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Postgres-database-from-the-Human-Services-Data-Specification-%28HSDS%29-compliant-CSV-files) (reorganized according to requirement)####
+- organizations.csv (required)
+- locations.csv (required)
+- addresses.csv (required)
+- phones.csv (required)
+- services.csv (required)
+- regular_schedules.csv (recommended)
+- holiday_schedules.csv (recommended)
+- contacts.csv (optional)
+- mail_addresses.csv (optional)
+- programs.csv (optional)
+- taxonomy.csv (optional)
+
+####Download files from datos.madrid.es####
+- Go to CATALOGO
+- On the right there's a box with "FILTRAR POR..."
+  - Select "Salud" and press the Filtrar button, download interesting files
+  - Select "Sociedad y bienestar", press Filtrar button, download interesting files
+- Downloaded files to ```ohana-api-madrid/datos-madrid```
+- First, chose csv-files to download, as they would be easiest to process from python. However, upon inspection, there are line breaks within single entries, making a loop over lines problematic... Will look into it further, maybe it will be easier with the excel files after all..
+- After careful inspection of the different file formates available (xlsx, csv, rdf, xml), I have chosen to go wih xml. I was tempted to choose RDF, since this is an emerging standard - but there were data fields that had been merged (e.g. Transportation into Description), which makes it less useful. Conclusion, thus: Will use XML to get the information!
+- Looked into the lxml library in python
+- First, will do a test with just one organization, to test how to build the database and if my format is working.
 
 
 
 
 
+####ipython notebook####
 
 
 
