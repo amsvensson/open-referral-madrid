@@ -84,6 +84,8 @@ FOR LATER, AFTER THE WORKSHOP!
 ------------------------------
 - [ ] Change things (regions, funding bodies, etc) in config/settings.yml in the Ohana API
 - [ ] /If someone takes over the project/, change contact e-mail address in config/settings.yml !
-
+- [ ] Uncomment and re-implement (adapt) the regex check of phone numbers (but in ohana-api-madrid! not in codeforamerica/ohana-api)
+	- adjust the regular expression here: https://github.com/codeforamerica/ohana-api/blob/master/app/validators/phone_validator.rb#L5
+	- enable/disable the validation by un/commenting this line: https://github.com/codeforamerica/ohana-api/blob/master/app/models/phone.rb#L16, and the comma at the end of line 15.
 
 

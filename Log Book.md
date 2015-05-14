@@ -154,23 +154,122 @@ At the other branch of the project, they have been trying to get ckan up and run
 - programs.csv (optional)
 - taxonomy.csv (optional)
 
-####Download files from datos.madrid.es####
+####Download and Inspect Files from datos.madrid.es####
 - Go to CATALOGO
 - On the right there's a box with "FILTRAR POR..."
   - Select "Salud" and press the Filtrar button, download interesting files
   - Select "Sociedad y bienestar", press Filtrar button, download interesting files
 - Downloaded files to ```ohana-api-madrid/datos-madrid```
-- First, chose csv-files to download, as they would be easiest to process from python. However, upon inspection, there are line breaks within single entries, making a loop over lines problematic... Will look into it further, maybe it will be easier with the excel files after all..
-- After careful inspection of the different file formates available (xlsx, csv, rdf, xml), I have chosen to go wih xml. I was tempted to choose RDF, since this is an emerging standard - but there were data fields that had been merged (e.g. Transportation into Description), which makes it less useful. Conclusion, thus: Will use XML to get the information!
+- First, I chose csv-files to download, as they would be easiest to process from python. However, upon inspection, there are line breaks within single entries, making a loop over lines problematic... Will look into it further, maybe it will be easier with the excel files after all..
+- After careful inspection of the different file formates available (xlsx, csv, rdf, xml), I have chosen to go wih XML. I was tempted to choose RDF, since this is an emerging standard - but there were data fields that had been merged (e.g. Transportation into Description), which makes it less useful. Conclusion, thus: Will use XML to get the information!
 - Looked into the lxml library in python
-- First, will do a test with just one organization, to test how to build the database and if my format is working.
+
+#####First test of populating the database#####
+First, will do a test with just one organization, to test how to build the database and if my format is working.
+I will work with the first organization in the "Centros de dia" directory.
+- Download file from http://datos.madrid.es/egob/catalogo/200342-0-centros-dia.xml
+
+- Got an excel file from Manu will several xslx files put together. Gone through them to understand the structure and relationships between orgnaizations and locations/services.
+
+- Idea for implementation: Create a dictionary for each csv file; Keep lists of dicts to represent entries.
+- I am going to need to do custom import scripts for each file, especially to sort out what organization each entry belongs to (Municipal or Concertado --> splits into several, some have more than one location!).
+
+- After lunch, with time to ponder on the organization of all of this, I have decided to create the organizational structure for the Municipal centers in Madrid. 
+- Found the Organigrama, now in ```ohana-importer-madrid/organization-madrid/```
+
+- Have added one Centro de dia, with all the required info in the csv files. Going to try to see if it works, trying on my local virtual machine.
+- [x] copy cvs-files to ```ohana-api-dev-box/ohana-api-madrid/data```
+- [x] open up git shell, navigate to ohana-api-dev-box
+- [x] run 
+	- [x] ```vagrant up```
+	- [x] ```vagrant ssh```
+	- [x] ```cd /vagrant/ohana-api-madrid```
+	- [x] ```script/reset```
+	- [ ] ```script/import``` --> ERROR
+	- [x] make changes to files
+	- [x] ```vagrant reload```
+	- [x] ```cd /vagrant/ohana-api-madrid```
+	- [x] ```script/reset```
+	- [x] ```script/import``` 
+	- [x] ```puma -p 8080``` --> SUCCESS!
+
+-Install the web search
+	- [x] clone the web search: ```git clone https://github.com/amsorribes/ohana-web-search-madrid.git && cd ohana-web-search-madrid```
+	- [ ] ```bin/setup``` --> ```command not found```
+
+- Run bin/setup commands manually
+- [x] ```cp config/application.example.yml config/application.yml```
+- [x] ```gem install bundler --conservative```
+- [x] ```bundle check || bundle install```
+- [x] ```rm -f log/*```
+- [x] ```rm -rf tmp/cache```
+- [ ] ```touch tmp/restart.txt``` --> ERROR: touch: cannot touch `tmp/restart.txt': No such file or directory. Probably not needed, ignoring error :D
+
+- [x] Try to run the web search, get error and 'Unable to find server' on ```http://localhost:4000```
+
+```
+vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ puma -p 4000
+[1805] Puma starting in cluster mode...
+[1805] * Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+[1805] * Min threads: 5, max threads: 5
+[1805] * Environment: development
+[1805] * Process workers: 2
+[1805] * Preloading application
+[1805] * Listening on tcp://0.0.0.0:4000
+[1805] * Listening on tcp://0.0.0.0:3000
+/home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/gems/puma-2.11.1/lib/puma/binder.rb:210:in `initialize': Address already in use - b
+ind(2) for "0.0.0.0" port 3000 (Errno::EADDRINUSE)
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/gems/puma-2.11.1/lib/puma/binder.rb:210:in `new'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/gems/puma-2.11.1/lib/puma/binder.rb:210:in `add_tcp_listener'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/gems/puma-2.11.1/lib/puma/binder.rb:96:in `block in parse'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/gems/puma-2.11.1/lib/puma/binder.rb:82:in `each'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/gems/puma-2.11.1/lib/puma/binder.rb:82:in `parse'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/gems/puma-2.11.1/lib/puma/runner.rb:119:in `load_and_bind'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/gems/puma-2.11.1/lib/puma/cluster.rb:301:in `run'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/gems/puma-2.11.1/lib/puma/cli.rb:512:in `run'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/gems/puma-2.11.1/bin/puma:10:in `<top (required)>'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/bin/puma:23:in `load'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/bin/puma:23:in `<main>'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/bin/ruby_executable_hooks:15:in `eval'
+        from /home/vagrant/.rvm/gems/ruby-2.2.1@ohana-web-search/bin/ruby_executable_hooks:15:in `<main>'
+vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ puma -p 4000
+[1813] Puma starting in cluster mode...
+[1813] * Version 2.11.1 (ruby 2.2.1-p85), codename: Intrepid Squirrel
+[1813] * Min threads: 5, max threads: 5
+[1813] * Environment: development
+[1813] * Process workers: 2
+[1813] * Preloading application
+[1813] * Listening on tcp://0.0.0.0:4000
+[1813] * Listening on tcp://0.0.0.0:3000
+[1813] Use Ctrl-C to stop
+[1813] - Worker 0 (pid: 1816) booted, phase: 0
+[1813] - Worker 1 (pid: 1820) booted, phase: 0
+```
+
+- [x] Write Moncef (again..) about this, and 'location' problems with requirements of State and number of digits in the phone number, since this is different in the US and Spain.
 
 
+Thursday, 14 May 2015
+---------------------
+- Woke up to a response from Moncef (thank you, thank you, _thank you_)!
+- Will start implementing the solutions:
+* Update ohana-api:
+	- [x] ```cd /ohana-api-madrid``` with Git Bash
+	- [x] ```git fetch codeforamerica```
+	- [x] ```git checkout master```
+	- [x] ```git merge codeforamerica/master```
+	- [x] ```git push origin master```
+	
+* Remove phone regex check (I was thinking of changing the regex, but it is not 'easy', since in Madrid, people tend to write phone numbers either as 912 345 678, 912 34 56 78, 91 23 45 678 (and maybe more ways!). Decided to remove the check altogether.
+	- [x] disable the validation by commenting this line: https://github.com/amsorribes/ohana-api-madrid/blob/master/app/models/phone.rb#L16, 
+	- [x] and the comma at the end of line 15.
+	- [x] commit to master and push to github
 
+* Change postal code requirement to 5 digits, starting by 28 (28xxx)
+	- [x] make change in regex in ```ohana-api-madrid\app\validators\zip_validator.rb```
+	- [x] push to github
 
-
-####ipython notebook####
-
+	
 
 
 
