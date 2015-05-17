@@ -304,6 +304,8 @@ After a few lovely days with friends visiting, it's back to work! The steps I am
 - [ ] Put the csv's in the data folder
 - [ ] Follow instructions on how to build the database
 
+Some notes about the translation - after formatting the yml-files correctly (with help from a yml consistently check website), and several iterations of trying, I got it through the Ohana API start-up process without any errors or warnings. So, good to go I thought, until I logged into the admin interface and got (database?) errors which had not been there before. Decided that I will have to wait to get the translations working for now, will center on populating the database first of all, and then deal with getting the translations to work..
+
 
 
 
