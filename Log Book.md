@@ -296,13 +296,37 @@ In the meantime, while stuff has been installing, I have been manually filling o
 Sunday, 17 May
 --------------
 After a few lovely days with friends visiting, it's back to work! The steps I am planning on taking are:
-- [ ] Remove phone number formatting check
-- [ ] Remove postal code formatting check
-- [ ] Try to run and log into the admin interface to confirm that it is still working and didn't break
-- [ ] Export the data I filled into the Google Spreadsheet template to csv
-- [ ] Run the csv's through csvLint
-- [ ] Put the csv's in the data folder
-- [ ] Follow instructions on how to build the database
+- [x] Run Ohana API, log into admin, see that all is working
+- [x] ctrl+c, ctrl+d, vagrant halt
+- [x] ~~Remove phone number formatting check~~ <-- Already in code cloned from github (I pushed it previously)
+- [x] ~~Remove postal code formatting check~~ <-- Already in code cloned from github (I pushed it previously)
+- [x] Try to run and log into the admin interface to confirm that it is still working and didn't break
+- [x] Export the data I filled into the Google Spreadsheet template to csv
+- [x] Run the csv's through CSV Lint
+- [ ] Follow [instructions](https://github.com/codeforamerica/ohana-api/blob/master/INSTALL.md#uploading-and-validating-your-own-data) on how to build the database
+	- [x] Put the csv's in the data folder
+	- [x] vagrant up, vagrant ssh, cd /vagrant/ohana-api-madrid
+	- [x] script/reset
+	- [ ] script/import --> Error:
+	```
+	...Importing your organizations...
+	rake aborted!
+	ActiveRecord::StatementInvalid: PG::StringDataRightTruncation: ERROR:  value too long for type character varying(255)
+	```
+	Ugh.. which means I will have to (manually!) search and find too long entries... :(
+	- [x] organizations.csv: Shortened the description of first line, removed some invisible whitespaces, removed website
+	- [x] organizations OK, now complain that no 'programs.csv' present, even though it says "programs.csv (optional)" on the [instructions](https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Postgres-database-from-the-Human-Services-Data-Specification-%28HSDS%29-compliant-CSV-files) page!
+	- [x] Add programs.csv
+	- [x] Needs taxonomy.csv too (even though this file also is specified as 'optional')
+	- ```rake aborted! Geocoder::OverQueryLimitError: Geocoder::OverQueryLimitError```
+	- [x] Try to find where in settings I change the bounding box --> it is in 'config/settings.yml' . I've lost all the changes I made to it a while back.
+		New bounding box: SW: 39.906410, -4.623211  ; NE: 41.173322, -3.027446
+	- ```rake aborted! Geocoder::OverQueryLimitError: Geocoder::OverQueryLimitError```
+		- Tried different delays with script/import 0.2 , 0.5 , 1 - still OverQueryLimitError
+		- Found [this](https://github.com/codeforamerica/ohana-api/issues/136) thread from last year, where solution was to comment out line 178 in location.rb . Line 178 does however not exist in the present day location.rb , so searched back in time March 8, 2014 to see what line it was. It corresponds to present-day line 64. Commented out that!
+	- [x] Push to github/ohana-api-madrid comment at  https://github.com/amsorribes/ohana-api-madrid/blob/master/app/models/location.rb#L64
+	
+	
 
 Some notes about the translation - after formatting the yml-files correctly (with help from a yml consistently check website), and several iterations of trying, I got it through the Ohana API start-up process without any errors or warnings. So, good to go I thought, until I logged into the admin interface and got (database?) errors which had not been there before. Decided that I will have to wait to get the translations working for now, will center on populating the database first of all, and then deal with getting the translations to work..
 
