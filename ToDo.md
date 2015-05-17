@@ -78,7 +78,7 @@ Translation
 - [ ] Raise issue: Add to instruction about translation that it is also needed in settings.yml file
 - [ ] Submit a pull request with the “config/locales/es.yml” file to the ohana-api repo
 - [ ] So much more to translate in different config-files, go through them, get it to work
-
+- [x] Implement translation file (es.yml) in ohana-web-search-madrid !
 
 
 
@@ -90,5 +90,7 @@ FOR LATER, AFTER THE WORKSHOP!
 	- adjust the regular expression here: https://github.com/amsorribes/ohana-api-madrid/blob/master/app/validators/phone_validator.rb#L5
 	- enable/disable the validation by un/commenting this line: https://github.com/amsorribes/ohana-api-madrid/blob/master/app/models/phone.rb#L16, and the comma at the end of line 15.
 
-
-
+- [ ] Submit a pull request to the ohana-api repo with the “config/locales/es.yml” file, when it is/feels done
+- [ ] Submit a pull request to the ohana-web-search repo with the “config/locales/es.yml” file, when it is/feels done
+- [ ] Raise issue in ohana-web-search (and ohana-api) of need to be able to customize and translate a lot more words/headers/descriptors
+- [ ] Translate all the Taxonomy

@@ -292,6 +292,9 @@ SOOOooOooOoo much trouble getting it all to work. I tried to implement the chang
 
 In the meantime, while stuff has been installing, I have been manually filling out the Google Spreadsheet template with data from the Centros de Dia, to see if I will be able to populate the database with this.
 
+---
+Some notes about the translation - after formatting the yml-files correctly (with help from a yml consistently check website), and several iterations of trying, I got it through the Ohana API start-up process without any errors or warnings. So, good to go I thought, until I logged into the admin interface and got (database?) errors which had not been there before. Decided that I will have to wait to get the translations working for now, will center on populating the database first of all, and then deal with getting the translations to work..
+
 
 Sunday, 17 May
 --------------
@@ -344,16 +347,107 @@ Revv it up!
 ...HOWEVER - trying out the Ohana **API** at localhost:8080/api **WORKS**!! Woohoo, The database is populated with my entries and we can get at them from the API!! 
 Now I "just" have to figure out why they aren't showing up in the web search, but that is less worrying at the moment. 
 
-- Remembered one thing - I put "MA" as state for all the addresses, before the State requirement was removed for addresses outside of USA and Canada. I should change this to see if it helps with the entries showing up in the web search.
-- Another thing I have to remember, is (uhh, doh, forgot while writing)
-to see if there are bounding boxes in the web search too??
-- And try to see if the translation works for the web search, would be good
+Next, try translation:
+- [x] Implement translation file (es.yml) in ohana-web-search-madrid !
+It worked! 
+But much more needs to be able to be translated! Adding to to-do list for later, raise issue on ohana-web-search
+
+
+Remembered one thing - I put "MA" as state for all the addresses, before the State requirement was removed for addresses outside of USA and Canada. I should change this to see if it helps with the entries showing up in the web search.
+- [x] Remove "MA" from all addresses
+- [x] Download the csv file
+- [x] Shut down web service and API service
+- [x] Copy new 'addresses.csv' to /data
+- [x] script/reset
+- [x] script/import
+- [x] script/export_prod_db
+- [x] script/restore_prod_db
+- [x] puma -p 8080 ==> API is working well!
+
+### OHOY!! ###
+I figured out why my database entries weren't showing up in the web search! I had lost the change I made in the ```config/application/yml``` (because it isn't version controlled) so:
+- [x] Change line 149 to: ```OHANA_API_ENDPOINT: http://localhost:8080/api``` for local testing!!
+
+####SUCCESS!!!####
+I've now got a working copy of the web search, showing up with entries from the database I built with Day Centers in Madrid - running locally on my (virtual) machine! It still looks terrible - even though the translation is in place, most of the text on the page is still in English. Thinking about deploying it to heroku so I can send a link to the Ohana development team (Moncef, but maybe more people?) to see if they can help making more of the page 'translatable'. 
+- I've spent some time reading the config/settings.yml of the Web Search application. Here can and will have to do a lot of customizations and translations. Have begun, but more to be done.
+
+
+To modify the front page boxes with search terms, I will look into which data is available from the datos.madrid.org, and organize these boxes accordingly.
+
+Draft of categories:
+
+* Attencion y Gestiones
+	- Centros de salud
+	- Farmacias
+	- Centros de Servicios Sociales Municipales
+
+* Menores, Familia & Mujeres
+	- Centros de Atención para Menores y Familia
+	- Puntos de atención a mujeres
+	
+* Centros de Inclusion Social
+	- Mayores: Centros de Día ; Centros Municipales de Mayores
+	- Centros para personas con discapacidad
+	- Centros para personas sin hogar
+
+* Entidades de participación ciudadana
+	- Federaciones
+	- Asociaciones
+	- Centros municipales de enseñanzas artísticas
+
+OR
+
+* Attencion y Gestiones
+	- Centros de salud
+	- Farmacias
+	- Centros de Servicios Sociales Municipales
+
+* smth
+	- Centros para personas sin hogar
+	- Puntos de atención a mujeres
+
+* smth
+	- Centros de Atención para Menores y Familia
+	- Mayores: Centros de Día ; Centros Municipales de Mayores
+	- Centros para personas con discapacidad
+
+* Entidades de participación ciudadana
+	- Federaciones
+	- Asociaciones
+	- Centros municipales de enseñanzas artísticas
+
+
+==> For now, go with the first one, but ask Lorena what she thinks!
+
+
+###Avaliable Files at http://datos.madrid.es####
+
+####Salud####
+* [Madrid Salud: relación de centros municipales](http://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=9613e34983c73410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD)
+	Centros de Salud Municipales
+    Centros de Atención a Drogodependencias
+    Centros especializados
+    Centros monográficos
+	Datos de ubicación, transporte, contacto, horario y servicios. Referencias a Barrios y Distritos de ubicación del centro y su área de influencia de servicios.
+	File URL: http://datos.madrid.es/egob/catalogo/201544-0-centros-salud.xml
+
+* [Farmacias](http://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=edae2c7220107410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD) (?)
+	Relación de Farmacias ubicadas en la ciudad de Madrid.  
+	La información procede del Colegio Oficial de Famaceúticos de Madrid. En los enlaces se puede acceder directamente a su web y a su buscador de Farmacias de Guardia.
+	File URL: http://datos.madrid.es/egob/catalogo/207619-0-farmacias-madrid.xml
+
+* [Farmacias de guardia](http://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=c383f3e3fbefc410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD) (Only with periodic, automatic data fetching scripts)
+
+####Sociedad y bienestar####
 
 
 
-Some notes about the translation - after formatting the yml-files correctly (with help from a yml consistently check website), and several iterations of trying, I got it through the Ohana API start-up process without any errors or warnings. So, good to go I thought, until I logged into the admin interface and got (database?) errors which had not been there before. Decided that I will have to wait to get the translations working for now, will center on populating the database first of all, and then deal with getting the translations to work..
 
 
 
 
- 
+
+
+
+
