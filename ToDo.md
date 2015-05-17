@@ -6,15 +6,15 @@ Overview
 ### Ohana API ###
 - [x] Install Ohana API locally
 - [x] (Customize) Ohana API and set Settings
-- [ ] Translate Ohana API
+- [x] Translate Ohana API
 - [ ] Deploy to Heroku
 
 
 ### Data ###
 _NB: In this first implementation, everything with have to be done manually, to get it done fast. Later, we could (I would want to) implement scripts to download and parse data automatically._
 - [x] Download data from datos.madrid.es
-- [ ] Read "[Prepare your data] (https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Postgres-database-from-the-Human-Services-Data-Specification-%28HSDS%29-compliant-CSV-files)"
-- [ ] Change headers to conform to the HSDS
+- [x] Read "[Prepare your data] (https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Postgres-database-from-the-Human-Services-Data-Specification-%28HSDS%29-compliant-CSV-files)"
+
 
 ### Ohana Web Search ###
 
@@ -26,7 +26,7 @@ _NB: In this first implementation, everything with have to be done manually, to 
 Schedule / Specific Days
 ------------------------
 ### Tuesday ###
-- [ ] Meet with Lorena
+- [x] Meet with Lorena
   - [x] Look into web interface, how to do translation, so she can start!
 
 
@@ -40,7 +40,7 @@ Technical issues, meta-tasks
   - [x] Fork ohana-web-search
   - [x] Create ohana-importer-madrid
   - [x] Create visualizar15 repo
-- [ ] Set up gh-pages with Jekyll for visualizar15, to blog progress
+- [x] ~~Set up gh-pages with Jekyll for visualizar15, to blog progress~~  _writing all in Log Book.md instead_
 
   
 Data, sources, files, etc
@@ -48,9 +48,8 @@ Data, sources, files, etc
 - [x] Print HSDS Schema overview
 
 First approximation:
-- [ ] Download a suitable file manually
-- [ ] Got through the headers, see how they fit with the HSDS schema
-- [ ] _Possibly_ transform with Open Refine
+- [x] Download a suitable file manually
+- [x] Got through the headers, see how they fit with the HSDS schema
 
 
 Front-End
@@ -75,9 +74,12 @@ Translation
   - [x] Partially translate settings.yml
   - [ ] Finish translate settings.yml (?) (Low priority at this moment)
 - [x] Uncomment and change the default locale to “:es” in https://github.com/codeforamerica/ohana-api/blob/master/config/application.rb#L40
-  - [ ] Ask if opening key "en:" should be changed to "es:"
+  - [x] ~~Ask if opening key "en:" should be changed to "es:"~~ <-- Yes, found out on my own.
 - [ ] Raise issue: Add to instruction about translation that it is also needed in settings.yml file
 - [ ] Submit a pull request with the “config/locales/es.yml” file to the ohana-api repo
+- [ ] So much more to translate in different config-files, go through them, get it to work
+
+
 
 
 FOR LATER, AFTER THE WORKSHOP!
@@ -85,7 +87,8 @@ FOR LATER, AFTER THE WORKSHOP!
 - [ ] Change things (regions, funding bodies, etc) in config/settings.yml in the Ohana API
 - [ ] /If someone takes over the project/, change contact e-mail address in config/settings.yml !
 - [ ] Uncomment and re-implement (adapt) the regex check of phone numbers (but in ohana-api-madrid! not in codeforamerica/ohana-api)
-	- adjust the regular expression here: https://github.com/codeforamerica/ohana-api/blob/master/app/validators/phone_validator.rb#L5
-	- enable/disable the validation by un/commenting this line: https://github.com/codeforamerica/ohana-api/blob/master/app/models/phone.rb#L16, and the comma at the end of line 15.
+	- adjust the regular expression here: https://github.com/amsorribes/ohana-api-madrid/blob/master/app/validators/phone_validator.rb#L5
+	- enable/disable the validation by un/commenting this line: https://github.com/amsorribes/ohana-api-madrid/blob/master/app/models/phone.rb#L16, and the comma at the end of line 15.
+
 
 
