@@ -325,6 +325,13 @@ After a few lovely days with friends visiting, it's back to work! The steps I am
 		- Tried different delays with script/import 0.2 , 0.5 , 1 - still OverQueryLimitError
 		- Found [this](https://github.com/codeforamerica/ohana-api/issues/136) thread from last year, where solution was to comment out line 178 in location.rb . Line 178 does however not exist in the present day location.rb , so searched back in time March 8, 2014 to see what line it was. It corresponds to present-day line 64. Commented out that!
 	- [x] Push to github/ohana-api-madrid comment at  https://github.com/amsorribes/ohana-api-madrid/blob/master/app/models/location.rb#L64
+	- Complains about no contacts.csv file (again, when it is 'optional'). This is more problematic becuase I don't have that contact information.
+	- [x] Create in 'contact' info by putting the service name as contact name in template, and download as csv.
+	- Complains about no regular_schedule and holiday_schedule as well. Download the defaults..
+	- SUCCESS !
+	- [x] Export the database:  ```script/export_prod_db```
+	- [x] To restore your local database from your clean data: ```script/restore_prod_db```
+
 	
 	
 
