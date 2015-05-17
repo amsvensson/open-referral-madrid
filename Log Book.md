@@ -332,8 +332,20 @@ After a few lovely days with friends visiting, it's back to work! The steps I am
 	- [x] Export the database:  ```script/export_prod_db```
 	- [x] To restore your local database from your clean data: ```script/restore_prod_db```
 
-	
-	
+Revv it up!
+- [x] ```puma -p 8080```
+- [x] accessible at localhost:8080/admin -- However, can't log in with development accounts!
+- Going to try to get the web search up, see if I can see the database entries I made
+	- [x] open new Git Bash
+	- [x] vagrant ssh
+	- [x] ```rails s -p 4000 -b 0.0.0.0```
+	- [ ] Can't get the database data to show up in the web search interface...
+
+...HOWEVER - trying out the Ohana **API** at localhost:8080/api **WORKS**!! Woohoo, The database is populated with my entries and we can get at them from the API!! 
+Now I "just" have to figure out why they aren't showing up in the web search, but that is less worrying at the moment. 
+
+
+
 
 Some notes about the translation - after formatting the yml-files correctly (with help from a yml consistently check website), and several iterations of trying, I got it through the Ohana API start-up process without any errors or warnings. So, good to go I thought, until I logged into the admin interface and got (database?) errors which had not been there before. Decided that I will have to wait to get the translations working for now, will center on populating the database first of all, and then deal with getting the translations to work..
 
