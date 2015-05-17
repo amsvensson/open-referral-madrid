@@ -269,7 +269,30 @@ Thursday, 14 May 2015
 	- [x] make change in regex in ```ohana-api-madrid\app\validators\zip_validator.rb```
 	- [x] push to github
 
+* Get the vagrant virtual machine to work for both the API and the web search:
+	Response from Moncef:
+	"The ohana web search issue is because the Vagrantfile is only forwarding one port from the Vagrant machine to your computer. That means that only port 8080 will be accessible from your browser. I added port 4000 to the Vagrantfile, so please pull the latest code for ohana-api-dev-box, then run “vagrant halt”, and “vagrant up” to pick up the changes."
+	- [x] pull from ohana-api-dev-box
+	- [x] ```vagrant halt```
+	- [x] ```vagrant up```
 	
+	"To point ohana-web-search to your local Ohana API, you need to set the OHANA_API_ENDPOINT environment variable to "http://localhost:8080/api", which you can do in your “config/application.yml”: https://github.com/codeforamerica/ohana-web-search/blob/master/config/application.example.yml#L149"
+	- [x] make changes in ```config/application.yml```
+	- [x] ```vagrant halt```
+	- [x] ```vagrant up```
+	- [x] ```rails s -p 4000 -b 0.0.0.0``` --> SUCCESS!!
+
+* Lorena me ha mandado la traduccion del portal de admin del API tambien!
+	- ToDo: Una vez que la API y el web search funcionen, introducir las traducciones!
+	
+
+---
+
+SOOOooOooOoo much trouble getting it all to work. I tried to implement the changes, it looked like everything was working, and then all of the sudden it wasn't. I've now redone all the steps with the dev-box twice, first with clones from the codeforamerica github account, and then from my amsorribes account. It is working again, but without any of the modifications I had done. Let's see what is breaking it....
+
+In the meantime, while stuff has been installing, I have been manually filling out the Google Spreadsheet template with data from the Centros de Dia, to see if I will be able to populate the database with this.
+
+
 
 
 
