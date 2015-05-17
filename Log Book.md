@@ -293,6 +293,17 @@ SOOOooOooOoo much trouble getting it all to work. I tried to implement the chang
 In the meantime, while stuff has been installing, I have been manually filling out the Google Spreadsheet template with data from the Centros de Dia, to see if I will be able to populate the database with this.
 
 
+Sunday, 17 May
+--------------
+After a few lovely days with friends visiting, it's back to work! The steps I am planning on taking are:
+- [ ] Remove phone number formatting check
+- [ ] Remove postal code formatting check
+- [ ] Try to run and log into the admin interface to confirm that it is still working and didn't break
+- [ ] Export the data I filled into the Google Spreadsheet template to csv
+- [ ] Run the csv's through csvLint
+- [ ] Put the csv's in the data folder
+- [ ] Follow instructions on how to build the database
+
 
 
 
