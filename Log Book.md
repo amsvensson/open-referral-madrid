@@ -344,6 +344,10 @@ Revv it up!
 ...HOWEVER - trying out the Ohana **API** at localhost:8080/api **WORKS**!! Woohoo, The database is populated with my entries and we can get at them from the API!! 
 Now I "just" have to figure out why they aren't showing up in the web search, but that is less worrying at the moment. 
 
+- Remembered one thing - I put "MA" as state for all the addresses, before the State requirement was removed for addresses outside of USA and Canada. I should change this to see if it helps with the entries showing up in the web search.
+- Another thing I have to remember, is (uhh, doh, forgot while writing)
+to see if there are bounding boxes in the web search too??
+- And try to see if the translation works for the web search, would be good
 
 
 
