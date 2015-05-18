@@ -442,12 +442,50 @@ OR
 ####Sociedad y bienestar####
 
 
+---
+
+Monday, 18 May
+--------------
+Priorities today:
+- Deploy Ohana API to Heroku
+- Deploy Web Search to Heroku
+- Start populating the database (won't have time to finish in a day, will take considerably longer)
+- Try to get the search to work (will I need to implement taxonomies?)
+	- Especially the 'Boxes' on the home screen
+	- The search by Postal Code is not working
+	- Search by partial keyword ("Qua" should give hits for Quavitae)
+
+ToDo, not forget:
+- Pull new changes from codeforamerica/ohana-api and /ohana-web-search !
+- Uncomment (reactivate) the geocoding line since this seems to have been fixed now
+- Maybe raise and issue on github regarding import script requiring optional csv files
+- Solve admin login to the API - add new super admin user?
+
+###Tasks today###
+- [x] Filed [issue](https://github.com/codeforamerica/ohana-web-search/issues/810) on ohana-web-search about partial searches not working in the Organization name search
+- [x] Try to get the forking and branching of the two projects right (not easy..)
+	- [ ] Still to do: fetch and merge (or rebase?) new changes from ohana-api <-- LATER, now everything is finally working again!
+- [x] Filed [issue](https://github.com/codeforamerica/ohana-api/issues/340) on ohana-api for help on how to reach the admin interface after having populated the database.
+
+###Deploy Ohana API to Heroku###
+- [x] Create account at Heroku
+- [x] inside vagrant, run ```wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh```
+- [x] log in: ```heroku login```
+- [x] Create my app: ```heroku apps:create ohana-api-madrid```
+- have redone these steps as I can't seem to find the "color url"
+	- [x] Deploy the app: ```script/setup_heroku ohana-api-madrid```
+	- [x] Save all the heroku configuration in ```heroku setup response.txt```
+- [x] Put the database dump file somewhere accessible by HTTP
+	- Decided to try from dropbox (instead of setting up a trial account at AWS), found [this](http://dirk.haage.info/post/40674698476/this-is-not-the-dropbox-link-youre-looking-for) on how to link to the file
+- [ ] Get your Heroku database name: ```heroku config -a ohana-api-madrid```
 
 
+- [x] Manually do steps from script/setup_heroku, add database, mail and 
+- [x] Add heroku remote: ```git remote add heroku git@heroku.com:ohana-api-madrid.git```
 
+- [x] restore database from url: ```heroku pg:backups restore 'http://dl.dropboxusercontent.com/u/2754289/ohana_api_production.dump' DATABASE -a ohana-api-madrid```
 
-
-
-
+####SUECCESS!####
+ohana-api-madrid is now avaliable at https://ohana-api-madrid.herokuapp.com  !!
 
 
