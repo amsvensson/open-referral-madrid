@@ -488,4 +488,62 @@ ToDo, not forget:
 ####SUECCESS!####
 ohana-api-madrid is now avaliable at https://ohana-api-madrid.herokuapp.com  !!
 
+---
+Later at night, want to see if I can get the web search up on heroku as well!
+
+Here's the session (edited to only the commands that worked):
+```
+	Welcome to your Vagrant-built virtual machine.
+	Last login: Mon May 18 18:50:44 2015 from 10.0.2.2
+	vagrant@ohana-api-dev-box:~$ cd /vagrant/
+	vagrant@ohana-api-dev-box:/vagrant$ cd ohana-web-search-madrid/
+	vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ script/setup_heroku -a socisalud-madrid
+	-o https://ohana-api-madrid.herokuapp.com/api/
+	-bash: script/setup_heroku: /bin/sh^M: bad interpreter: No such file or directory
+	vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ heroku login
+	Enter your Heroku credentials.
+	Email: 
+	Password (typing will be hidden):
+	Authentication successful.
+	vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ heroku config:set CANONICAL_URL=socisalu
+	d-madrid.herokuapp.com --app socisalud-madrid
+	Setting config vars and restarting socisalud-madrid... done, v3
+	CANONICAL_URL: socisalud-madrid.herokuapp.com
+	vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ heroku config:set DOMAIN_NAME=socisalud-
+	madrid.herokuapp.com --app socisalud-madrid
+	Setting config vars and restarting socisalud-madrid... done, v4
+	DOMAIN_NAME: socisalud-madrid.herokuapp.com
+	vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ heroku config:set OHANA_API_ENDPOINT=htt
+	ps://ohana-api-madrid.herokuapp.com/api --app socisalud-madrid
+	Setting config vars and restarting socisalud-madrid... done, v5
+	OHANA_API_ENDPOINT: https://ohana-api-madrid.herokuapp.com/api
+	vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ token=$(python -c 'import uuid; print uu
+	id.uuid4()')
+	vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ heroku config:set SECRET_TOKEN=$token --
+	app socisalud-madrid
+	Setting config vars and restarting socisalud-madrid... done, v6
+	SECRET_TOKEN: (_not shown_)
+	vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ heroku addons:create mandrill -a socisal
+	ud-madrid
+	Creating helping-stably-2562... done
+	Adding helping-stably-2562 to socisalud-madrid... done
+	Setting MANDRILL_APIKEY, MANDRILL_USERNAME and restarting socisalud-madrid... done, v7
+	Use `heroku addons:docs mandrill` to view documentation.
+	vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ heroku addons:create memcachier -a socis
+	alud-madrid
+	Creating grinning-patiently-3934... done
+	Adding grinning-patiently-3934 to socisalud-madrid... done
+	Setting MEMCACHIER_PASSWORD, MEMCACHIER_SERVERS, MEMCACHIER_USERNAME and restarting socisalud-madrid... done, v8
+	Please allow up to three minutes for MemCachier credentials to sync.
+	Use `heroku addons:docs memcachier` to view documentation.
+	vagrant@ohana-api-dev-box:/vagrant/ohana-web-search-madrid$ git push heroku dev
+```
+
+Ugh, I don't know why, but heroku won't deploy neither my dev branch, nor the master branch (which is identical to codeforamerica/ohana-web-search)! I've saved the log file with the failed attempts at deployment and written to Moncef to see if he can help me figure it out. That's about all I can do for tonight, and hoping for good news tomorrow!
+
+
+
+
+
+
 
