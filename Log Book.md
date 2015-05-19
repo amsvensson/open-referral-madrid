@@ -574,4 +574,24 @@ I looked into it first thing this morning, and HOORAY, it was the same problem I
 	- [x] Add time: am: '' ; pm: ''
 	- [x] Change time format for regular schedule to ```schedules_hours: '%-H:%M'```
 
-
+###Family and Youth Info###
+- [x] Add several info-boxes for family and youth services
+- [x] Add family and youth services to Google spreadsheet
+- [x] Get new data into the database:
+	- [x] Update the information in the Google Spreadsheet
+	- [x] Download the data in csv format with the rakefile script
+	- [x] ```script/reset```
+	- [x] ```script/import```
+	- [x] ```script/export_prod_db```
+	- [x] ```heroku login```
+	- [x] ```heroku config -a ohana-api-madrid```
+	- [x] move production dump file to dropbox and get URL
+	- [x] restore database from url: ```heroku pg:backups restore https://dl.dropboxusercontent.com/u/2754289/ohana-db/ohana_api_production.dump DATABASE -a ohana-api-madrid```
+- DONE! New database in place! (Starting to get the hang of this! xD)
+- Also SUCCESS, the info-boxes work well! Try them:
+	- 'centros de día para mayores'
+	- caf
+	- cai
+	- pef
+	- 'centros de día para menores'
+	
