@@ -542,8 +542,36 @@ Here's the session (edited to only the commands that worked):
 Ugh, I don't know why, but heroku won't deploy neither my dev branch, nor the master branch (which is identical to codeforamerica/ohana-web-search)! I've saved the log file with the failed attempts at deployment and written to Moncef to see if he can help me figure it out. That's about all I can do for tonight, and hoping for good news tomorrow!
 
 
+Tuesday, 19 May
+---------------
+It suddenly occurred to me when already in bed, that I had read something about an issue with deployment - but since I hadn't deployed ever, I didn't quite understand it or was able to remember the details. 
 
+I looked into it first thing this morning, and HOORAY, it was the same problem I was having - and most importantly - the proposed fix worked for me too! So now we have a ohana web search working at: https://socisalud-madrid.herokuapp.com/
 
+####Tasks today:####
+- [x] New logo for the search page
+- [x] Email to Greg
+- [x] Documentation stuff for the project presentation tomorrow
+- [x] Looking for more data to add - Familiy and infancy b/c it fits with other visualization in the project
+- [x] New logo: SociSalud Madrid
+- [x] Implemente info-box for Centros de dia!
+- [x] Instead of populating the database with new data, I decided to improve the data already in there, both for it to be better formatted and more complete, and to know what works and what gives errors on import, for other, new data.
+- [x] Get new data into the database:
+	- [x] Update the information in the Google Spreadsheet
+	- [x] Download the data in csv format with the rakefile script
+	- [x] ```script/reset```
+	- [x] ```script/import```
+	- [x] ```script/export_prod_db```
+	- [x] ```script/import_prod_db```
+	- [x] ```heroku login```
+	- [x] ```heroku config -a ohana-api-madrid```
+	- [x] move production dump file to dropbox and get URL
+	- [x] restore database from url: ```heroku pg:backups restore https://dl.dropboxusercontent.com/u/2754289/ohana-db/ohana_api_production.dump DATABASE -a ohana-api-madrid```
+- DONE! New database in place! (Starting to get the hang of this! xD)
 
+- Now: trying to fix things with the translation, I will probably have to extend the es.yml file beyond what was in the English one. I get this (ugly) error e.g.: "translation missing: es.time.am"
+* Ok, made it work, by introducing changes to es.yml:
+	- [x] Add time: am: '' ; pm: ''
+	- [x] Change time format for regular schedule to ```schedules_hours: '%-H:%M'```
 
 
