@@ -594,4 +594,13 @@ I looked into it first thing this morning, and HOORAY, it was the same problem I
 	- cai
 	- pef
 	- 'centros de día para menores'
-	
+
+
+Wednesday, 20 May
+-----------------
+Last day of the workshop. I got everything up and running, and now what is missing is more data. I have been thinking about how to automate this, but I know it would take my several days, and I don't have the time to start that right now. The good news is however, that it can be done manually as well, using the Google Spreadsheet, so it doesn't have to be automated right now, anyone interested in taking this project further could continue with the data input until we have all that is available on the datos.madrid.es site. I think it wouldn't take more than a few days of dedicated work, or a few hours a day for a week(ish). 
+
+Today I have been doing mostly wrap-up things - an interview for the exposition and giving feedback to Manuel on the prints. This afternoon I will prepare my part of our groups final talk, that will happen this afternoon. Now, I will look into hosting our project page on github. 
+
+
+
