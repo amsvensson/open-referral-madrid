@@ -1,0 +1,147 @@
+# Files in the config/locales directory are used for internationalization
+# and are automatically loaded by Rails. If you want to use locales other
+# than English, add the necessary files in this directory.
+#
+# To use the locales, use `I18n.t`:
+#
+#     I18n.t 'hello'
+#
+# In views, this is aliased to just `t`:
+#
+#     <%= t('hello') %>
+#
+# To use a different locale, set it with `I18n.locale`:
+#
+#     I18n.locale = :es
+#
+# This would use the information in config/locales/es.yml.
+#
+# To learn more, please read the Rails Internationalization guide
+# available at http://guides.rubyonrails.org/i18n.html.
+
+en:
+  branding:
+    description: >
+      Retrieve detailed information about the services available
+      in %{location}.
+    header: 'Find community services in %{location}'
+    location: 'Madrid'
+
+  buttons:
+    clear_search_fields: 'Clear search fields'
+    during_geolocation: 'Please wait...'
+    homepage_search: 'Search'
+    services_near_me: 'Services near me'
+    update_search_results: 'Update search results'
+
+  date:
+    day_names:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+    closed: 'CLOSED'
+
+  errors:
+    api_down: >
+      Sorry, we are experiencing issues with search. Please try again later.
+    bad_search: 'That search was improperly formatted. Please try a new search.'
+    not_found: 'Sorry, that page does not exist. Please try a new search.'
+
+  helpers:
+    page_entries_info:
+      one_page:
+        display_entries:
+          zero: "No %{entry_name} found."
+          one: "Displaying <strong>1</strong> %{entry_name}"
+          other: "Displaying <strong>all %{count}</strong> %{entry_name}"
+      more_pages:
+        display_entries: >
+          Displaying <strong>%{first} - %{last}</strong> of
+          <strong>%{total}</strong> %{entry_name}
+
+  labels:
+    address_search: 'Address search'
+    agency_search: 'Organization name search'
+    homepage_search: 'I need...'
+
+  location_fields:
+    accessibility: 'Accessibility Options:'
+    description: 'Description'
+    languages: 'Languages Spoken:'
+
+  meta:
+    description: >
+      Find free food, housing, clothes, medical care, jobs, and other human
+      services in %{location}.
+
+  no_results:
+    main: 'Unfortunately, your search returned no results.'
+    secondary: "If you have trouble finding what you're looking for, try:"
+    options:
+      one: 'Searching with a single keyword.'
+      two: 'Scrolling down and clicking one of the links.'
+      browse_all: 'Browsing all locations.'
+
+  organization_fields:
+    accreditations: 'Accreditations:'
+    licenses: 'Licenses:'
+
+  placeholders:
+    address_search: 'address or ZIP code'
+    agency_search: 'full or partial name...'
+    homepage_keyword_search: 'what are you looking for?'
+    results_page_keyword_search: 'search for...'
+
+  service_fields:
+    accepted_payments: 'Payment Methods Accepted:'
+    audience: 'Audience:'
+    description: 'Service Description:'
+    eligibility: 'Eligibility:'
+    fees: 'Fees:'
+    application_process: 'How to Apply:'
+    interpretation_services: 'Interpretation Services:'
+    keywords: 'Keyword Tags'
+    required_documents: 'Required Documents:'
+    service_areas: 'Service Areas:'
+    status_defunct: 'This service is no longer operating!'
+    status_inactive: 'This service is not currently operating!'
+    urls: 'Homepage:'
+    wait_time: 'Service Wait Estimate:'
+
+  time:
+    formats:
+      schedules_hours: '%l:%M%P'
+      holiday_schedules_date: '%B %e'
+
+  views:
+    pagination:
+      first: "&laquo; First"
+      last: "Last &raquo;"
+      previous: "<i class='fa fa-chevron-left'></i>"
+      next: "<i class='fa fa-chevron-right'></i>"
+      truncate: "&hellip;"
+	  share:
+      email:
+        subject: "%{location_name} found on %{site_title}"
+        # Note that the code %0D%0A designates url-encoded line breaks
+        # that will appear as carriage returns in the email's body.
+        body: |
+          Hi,
+          %0D%0A%0D%0A
+          I'd like to share information about %{location_name} with you.
+          %0D%0A%0D%0A
+          For details about this service provider, please visit:
+          %0D%0A%0D%0A
+          %{location_url}.
+    about:
+      project_link: 'Visit project on GitHub'
+      project_link_url: 'https://github.com/codeforamerica/Ohana-Web-Search'
+    feedback:
+      issue_link: 'File an issue on Github'
+      issue_link_url: 'https://github.com/codeforamerica/Ohana-Web-Search/issues'
+      submit_comment_label: 'Submit comments to the development team:'
+
