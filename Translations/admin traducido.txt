@@ -1,0 +1,84 @@
+﻿# Files in the config/locales directory are used for internationalization
+# and are automatically loaded by Rails. If you want to use locales other
+# than English, add the necessary files in this directory.
+
+# To use the locales, use `I18n.t`:
+#
+#     I18n.t 'hello'
+#
+# In views, this is aliased to just `t`:
+#
+#     <%= t('hello') %>
+#
+# To use a different locale, set it with `I18n.locale`:
+#
+#     I18n.locale = :es
+#
+# This would use the information in config/locales/es.yml.
+#
+# To learn more, please read the Rails Internationalization guide
+# available at http://guides.rubyonrails.org/i18n.html.
+
+en:
+  activerecord:
+    attributes:
+      address:
+        state_province: 'Comunidad autónoma'  #Provincia
+      mail_address:
+        state_province: 'Comunidad autónoma'  #Provincia
+  admin:
+    api_location: 'Madrid'
+    not_authorized: 'No está autorizado para realizar esta acción.'
+
+  enumerize:
+    location:
+      accessibility:
+        cd: "Información en CD"
+        deaf_interpreter: "Intérprete para personas sordas"
+        disabled_parking: "Aparcamiento accesible para personas con discapacidad"
+        elevator: "Ascensor"
+        ramp: "Rampa"
+        restroom: "Baño accesible para personas con discapacidad"
+        tape_braille: "Información en grabación de audio o en Braille"
+        tty: "TTY"   #Teléfono de texto
+        wheelchair: "Silla de ruedas"
+        wheelchair_van: "Furgoneta accesible para personas en silla de ruedas"
+		phone:
+      number_type:
+        fax: "Fax"
+        hotline: "Línea directa"    #???
+        sms: "SMS"
+        tty: "TTY" #Teléfono de texto
+        voice: "Por voz"   #Voz
+
+  errors:
+    messages:
+      blank_for_address: "El campo "Dirección" es obligatorio"   #Es obligatorio rellenar el campo "Dirección" 
+      blank_for_category: "El campo "Categoría" es obligatorio"  #Es obligatorio rellenar el campo "Categoría"
+      blank_for_contact: "El campo "Contacto" es obligatorio"    #Es obligatorio rellenar el campo "Contacto"
+      blank_for_hs: "El campo "Calendario de vacaciones" es obligatorio     #Es obligatorio rellenar el campo "Calendario de vacaciones"
+      blank_for_hs_open: "can't be blank for Holiday Schedule when open on that day"    #???
+      blank_for_location: "El campo "Ubicación" es obligatorio"   #Es obligatorio rellenar el campo "Ubicación"
+      blank_for_mail_address: "El campo "Dirección de correo electrónico" es obligatorio"  #Es obligatorio rellenar el campo "Dirección de correo electrónico" 
+      blank_for_org: "El campo "Organización" es obligatorio"   #Es obligatorio rellenar el campo "Organización" 
+      blank_for_phone: "El campo "Teléfono" es obligatorio"	#Es obligatorio rellenar el campo "Teléfono" 
+      blank_for_program: "El campo "Programa" es obligatorio"	#Es obligatorio rellenar el campo "Programa" 
+      blank_for_rs: "El campo "Calendario general" es obligatorio" #Es obligatorio rellenar el campo "Calendario general" 
+      blank_for_service: "El campo "Servicio" es obligatorio"	#Es obligatorio rellenar el campo "Servicio" 
+      duplicate_taxonomy_id: 'ese id ya está en uso'
+      invalid_date: 'no es una fecha válida'
+      invalid_email: 'no es una dirección de correo electrónico válida'
+      invalid_fax: 'no es un número de fax válido'
+      invalid_phone: 'no es un número de teléfono o de fax válido'
+      invalid_service_area: 'no es una zona de servicio válida'
+      invalid_state_province: 'Por favor introduzca una abreviatura de dos letras para la comunidad autónoma o provincia'
+      invalid_url: 'no es una URL válida'
+      invalid_weekday: 'no es un día de la semana válido'
+      invalid_zip: 'no es un código postal válido'
+      no_address: "La ubicación debe tener una dirección, excepto si se trata de una ubicación virtual."
+      not_an_array: 'no es un array.'  #no es una matriz
+
+  titles:
+    brand: "Ohana API"
+    admin: "%{brand} Administrador"
+    developer: "%{brand} Desarrolladores"
