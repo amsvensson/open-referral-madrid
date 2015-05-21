@@ -1,0 +1,149 @@
+﻿# Files in the config/locales directory are used for internationalization
+# and are automatically loaded by Rails. If you want to use locales other
+# than English, add the necessary files in this directory.
+#
+# To use the locales, use `I18n.t`:
+#
+#     I18n.t 'hello'
+#
+# In views, this is aliased to just `t`:
+#
+#     <%= t('hello') %>
+#
+# To use a different locale, set it with `I18n.locale`:
+#
+#     I18n.locale = :es
+#
+# This would use the information in config/locales/es.yml.
+#
+# To learn more, please read the Rails Internationalization guide
+# available at http://guides.rubyonrails.org/i18n.html.
+
+es:
+  branding:
+    description: >
+      Retrieve detailed information about the services available
+      in %{location}.
+    header: 'Encuentra recursos sociales y sanitarios en %{location}'
+    location: 'Madrid'
+
+  buttons:
+    clear_search_fields: 'Borrar los campos de búsqueda'
+    during_geolocation: 'Por favor, espere...'
+    homepage_search: 'Buscar'
+    services_near_me: 'Recursos en mi entorno'
+    update_search_results: 'Actualizar los resultados de la búsqueda'
+
+  date:
+    day_names:
+      - Lunes
+      - Martes
+      - Miércoles
+      - Jueves
+      - Viernes
+      - Sábado
+      - Domingo
+    closed: 'CERRADO'
+
+  errors:
+    api_down: >
+      Se produjo un error en la búsqueda. Por favor, inténtelo de nuevo más tarde. Disculpe las molestias.
+    bad_search: 'El formato de la búsqueda no es correcto. Por favor, intente una nueva búsqueda.'
+    not_found: 'La página no existe. Por favor, intente una nueva búsqueda.'
+
+  helpers:
+    page_entries_info:
+      one_page:
+        display_entries:
+          zero: "No se ha encontrado %{entry_name}."
+          one: "Mostrando <strong>1</strong> %{entry_name}"
+          other: "Mostrando <strong>todos los %{count}</strong> %{entry_name}"
+      more_pages:
+        display_entries: >
+          Mostrando <strong>%{first} - %{last}</strong> de
+          <strong>%{total}</strong> %{entry_name}
+
+  labels:
+    address_search: 'Búsqueda de la dirección'
+    agency_search: 'Búsqueda del nombre de la organización'
+    homepage_search: 'Necesito...'
+
+  location_fields:
+    accessibility: 'Opciones de accesibilidad:'
+    description: 'Descripción'
+    languages: 'Idiomas:'
+
+  meta:
+    description: >
+      Busque recursos gratuitos sobre comida, ropa, alojamiento, trabajo, sanidad y otros en %{location}.
+
+  no_results:
+    main: 'No existen resultados para esa búsqueda.'
+    secondary: "Si tiene problemas en la búsqueda, pruebe lo siguiente:"
+    options:
+      one: 'Busque con una única palabra clave.'
+      two: 'Vea los diferentes resultados y haga click en uno de los enlaces.'
+      browse_all: 'Explore todas las localizaciones.'
+
+  organization_fields:
+    accreditations: 'Acreditaciones:'
+    licenses: 'Licencias:'
+
+  placeholders:
+    address_search: 'dirección o código postal'
+    agency_search: 'nombre parcial o completo...'
+    homepage_keyword_search: '¿Qué está buscando?'
+    results_page_keyword_search: 'buscar...'
+
+  service_fields:
+    accepted_payments: 'Métodos de pago aceptados:'
+    audience: 'A quién está dirigido este recurso:'
+    description: 'Descripción del recurso:'
+    eligibility: 'Criterios para solicitar este recurso:'
+    fees: 'Tarifas:'
+    application_process: 'Cómo realizar la solicitud:'
+    interpretation_services: 'Servicios de interpretación:'
+    keywords: 'Etiquetas de palabras clave'
+    required_documents: 'Documentación requerida:'
+    service_areas: 'Zonas de servicio:'
+    status_defunct: '¡Este recurso ya no existe!'
+    status_inactive: '¡Este recurso no está en funcionamiento actualmente!'
+    urls: 'Página web:'
+    wait_time: 'Tiempo de espera estimado:'
+
+  time:
+    formats:
+      schedules_hours: '%-H:%M'
+      #schedules_hours: '%l:%M%P'
+      holiday_schedules_date: '%B %e'
+    am: ''
+    pm: ''
+
+  views:
+    pagination:
+      first: "&laquo; Primera"
+      last: "Última &raquo;"
+      previous: "<i class='fa fa-chevron-left'></i>"
+      next: "<i class='fa fa-chevron-right'></i>"
+      truncate: "&hellip;"
+    share:
+      email:
+        subject: "%{location_name} encontrado en %{site_title}"
+        # Note that the code %0D%0A designates url-encoded line breaks
+        # that will appear as carriage returns in the email's body.
+        body: |
+          Hola,
+          %0D%0A%0D%0A
+          Me gustaría compartir información sobre %{location_name} contigo.
+          %0D%0A%0D%0A
+          Para obtener más detalles sobre el proveedor de este recurso, por favor visite:
+          %0D%0A%0D%0A
+          %{location_url}.
+    about:
+      project_link: 'Consulte el proyecto en GitHub'
+      project_link_url: 'https://github.com/amsorribes/Ohana-Web-Search-Madrid'
+    feedback:
+      issue_link: 'Comunique errores o surgiera mejoras en Github'
+      issue_link_url: 'https://github.com/amsorribes/Ohana-Web-Search-Madrid/issues'
+      submit_comment_label: 'Envíe comentarios al equipo de desarrollo:'
+
