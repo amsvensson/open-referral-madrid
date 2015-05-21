@@ -600,7 +600,28 @@ Wednesday, 20 May
 -----------------
 Last day of the workshop. I got everything up and running, and now what is missing is more data. I have been thinking about how to automate this, but I know it would take my several days, and I don't have the time to start that right now. The good news is however, that it can be done manually as well, using the Google Spreadsheet, so it doesn't have to be automated right now, anyone interested in taking this project further could continue with the data input until we have all that is available on the datos.madrid.es site. I think it wouldn't take more than a few days of dedicated work, or a few hours a day for a week(ish). 
 
-Today I have been doing mostly wrap-up things - an interview for the exposition and giving feedback to Manuel on the prints. This afternoon I will prepare my part of our groups final talk, that will happen this afternoon. Now, I will look into hosting our project page on github. 
+Today I have been doing mostly wrap-up things - an interview for the exposition and giving feedback to Manuel on the prints. This afternoon I will prepare my part of our groups final talk, that will happen this afternoon. Now, I will look into hosting our project page on github. OK, Done! Our project page is now at http://medialab-prado.github.io/visualizar15-cityapi
+
+Tasks:
+- [x] Add myself as admin
+- [x] Add myself as superadmin
+- [x] Fix typo on front page (doh, hehe)
+
+
+####Tasks, to-dos, from talks about how to take this project forward:####
+- [x] Add Adolfo as superadmin at ohana-api-madrid.herokuapp.com
+- [x] Add Lorena from Medialab Prado as admin
+- [x] Add Lorena as superadmin at ohana-api-madrid.herokuapp.com
+- [ ] Clean up my ToDo list, only leave things yet to be done (i.e. 'for later' section)
+- [ ] Organize ToDo list into Technical tasks, Project Management, Data Input tasks
+- [ ] Write Lorena about continuity of project
+- [ ] Add to ToDo list, add remaining data from datos.madrid.es
+- [ ] Add to ToDo's, ask for help in where/how to translate the remaining words on the web page
+- [ ] Go through this log book and distil instructions, orphan ToDo's and issues/fixes/pull requests to be filed to the different ohana projects.
+- [ ] Clean up the file directories
+- [ ] Implement translation of admin interface
+- [ ] Things needed: documentation in Spanish. E.g. translation of the FAQ on the Open Referral web page.
+
 
 
 
