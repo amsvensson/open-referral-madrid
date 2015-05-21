@@ -614,13 +614,32 @@ Tasks:
 - [x] Add Lorena as superadmin at ohana-api-madrid.herokuapp.com
 - [ ] Clean up my ToDo list, only leave things yet to be done (i.e. 'for later' section)
 - [ ] Organize ToDo list into Technical tasks, Project Management, Data Input tasks
-- [ ] Write Lorena about continuity of project
+- [x] Write Lorena --> Meeting next week
 - [ ] Add to ToDo list, add remaining data from datos.madrid.es
 - [ ] Add to ToDo's, ask for help in where/how to translate the remaining words on the web page
 - [ ] Go through this log book and distil instructions, orphan ToDo's and issues/fixes/pull requests to be filed to the different ohana projects.
 - [ ] Clean up the file directories
 - [ ] Implement translation of admin interface
 - [ ] Things needed: documentation in Spanish. E.g. translation of the FAQ on the Open Referral web page.
+- [ ] Clean up github branches (?)
+
+
+Thursday, 21 May
+----------------
+Although the workshop officially ended yesterday, I've come in to Medialab Prado today as well, to do some final wrap-up work and try to meet up with people here from Medialab Prado about the continuity of the project.
+
+---
+
+In the end it wasn't possible to meet today due to another meeting running over, so we've decided on meeting up sometime next week, and try to get all interested parties together. 
+
+Tasks today:
+- [x] Clean up my ToDo list, only leave things yet to be done (i.e. 'for later' section)
+- [x] Read Greg's Madrid memo draft
+- [x] Looked into changing over the ohana-api and socisalud-madrid apps to OpenShift instead of Heroku. Possible upsides would be *no credit card* (as I am a bit nervous about 'accidentally' being billed at Heroku, and that OpenShift is very welcoming to open source and open data initiatives. Downsides are that I'm not entirely sure I would manage to get it to work (no detailed instructions), Mandrill (e-mailing service) seems like it doesn't work (well?) on OpenShift, and that all the application names would have *my* user name in it, e.g.: socisalud-madrid.amsorribes.rhcloud.com  (which I guess would "look good" for me, but this project isn't about me, so having my username in the namespace feels a little wrong and extra cumbersome when demoing the Admin interface, API and web search to potentially interested parties). So for these reasons, I decided to stay on Heroku (and cross my fingers that I won't get billed..!).
+- [x] Finished the new big ToDo list!
+
+
+
 
 
 
