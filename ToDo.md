@@ -1,96 +1,88 @@
-Big To Do List
-==============
+ToDo List: Open Referral Madrid
+===============================
 
-Overview
---------
-### Ohana API ###
-- [x] Install Ohana API locally
-- [x] (Customize) Ohana API and set Settings
-- [x] Translate Ohana API
-- [ ] Deploy to Heroku
+###Introduction and Overview###
+To start with, before I start enumerating tasks, I want to point out that this list is a dynamic document which mostly reflects the current state of the project, and in no way do I pretend for it to be universal and all-inclusive. I will center here mostly on the technical aspects of the project, although there obviously will be some overlap with more conceptual aspects of implementing open data sharing standards in our community. 
 
+This list could potentially be huge, but I will try to break it down in four main categories:
+- **Project Management**
+	- _Contact with stakeholders, organization of project and people, meetups, events_
+- **Core Conceptual Ideas**
+	- _Ideas that need to be discussed with stakeholders and documented: Schemas, taxonomy, infrastructure_
+- **Data & Translation**
+	- _Input (and updating(?)) of remaining available data, translation of documents / web site / taxonomy?, etc_
+- **Technical Implementation**
+	- _Updating the site, implementing translations, managing Admins, etc._
+	- _For now, all referring to the prototype project._
 
-### Data ###
-_NB: In this first implementation, everything with have to be done manually, to get it done fast. Later, we could (I would want to) implement scripts to download and parse data automatically._
-- [x] Download data from datos.madrid.es
-- [x] Read "[Prepare your data] (https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Postgres-database-from-the-Human-Services-Data-Specification-%28HSDS%29-compliant-CSV-files)"
-
-
-### Ohana Web Search ###
-
+---
 
 
+###Project Management###
+Not really in my scope. Hopefully we can determine more of this at the meeting next week (last week of May).
+
+Raise:
+- [ ] Can we / should we change the contact e-mail address to a medialab one? (config/settings.yml)
+
+---
+
+###Core Conceptual Ideas###
+Same as above, not really in my scope, at least not right now (possibly later, when I come back).
+
+---
 
 
+###Data & Translation###
 
-Schedule / Specific Days
-------------------------
-### Tuesday ###
-- [x] Meet with Lorena
-  - [x] Look into web interface, how to do translation, so she can start!
+####Data Input####
+- [ ] Input the remaining pertinent files from http://datos.madrid.es manually with Google Spreadsheet
+- [ ] _Input data from other service providers (find and input?)_
 
+####Translation####
+- [ ] Write more info-boxes about new data, in ```ohana-web-search-madrid/config/settings.yml```
 
-Technical issues, meta-tasks
-----------------------------
-- [x] Ask for a virtual machine at Media-Lab Prado
-  - [x] Find Gabriel / his e-mail address
-  - [x] Solved, got e-mail back with address
-- [x] Set up GitHub repos
-  - [x] Fork ohana-api
-  - [x] Fork ohana-web-search
-  - [x] Create ohana-importer-madrid
-  - [x] Create visualizar15 repo
-- [x] ~~Set up gh-pages with Jekyll for visualizar15, to blog progress~~  _writing all in Log Book.md instead_
-
-  
-Data, sources, files, etc
--------------------------
-- [x] Print HSDS Schema overview
-
-First approximation:
-- [x] Download a suitable file manually
-- [x] Got through the headers, see how they fit with the HSDS schema
+---
 
 
-Front-End
----------
+###Technical Implementation###
 
-
-Back-End, Deployment
---------------------
-- [x] Sync changes in Ohana
-- [x] Install PuTTY and WinSCP
-- [x] Install Ohana API locally
-  - [x] Ask for help (create new issue) on how access the rails server
-
-  
-  
-  
-Translation
------------
-- [x] Copy config/locales/en.yml to a new file called “es.yml” in the same directory, 
-- [ ] Translate the values for each key.
-  - [x] Send files to Lorena
-  - [x] Partially translate settings.yml
-  - [ ] Finish translate settings.yml (?) (Low priority at this moment)
-- [x] Uncomment and change the default locale to “:es” in https://github.com/codeforamerica/ohana-api/blob/master/config/application.rb#L40
-  - [x] ~~Ask if opening key "en:" should be changed to "es:"~~ <-- Yes, found out on my own.
-- [ ] Raise issue: Add to instruction about translation that it is also needed in settings.yml file
-- [ ] Submit a pull request with the “config/locales/es.yml” file to the ohana-api repo
-- [ ] So much more to translate in different config-files, go through them, get it to work
-- [x] Implement translation file (es.yml) in ohana-web-search-madrid !
-
-
-
-FOR LATER, AFTER THE WORKSHOP!
-------------------------------
+####Back End####
+- [ ] Implement translation of Admin interface
+	- [ ] Finish translate settings.yml (?)
+	- [ ] Try to find more places that need translation (different config-files, etc)
+	- [ ] Change in ```config/application.rb#40```: ```default_locale = :es```
 - [ ] Change things (regions, funding bodies, etc) in config/settings.yml in the Ohana API
-- [ ] /If someone takes over the project/, change contact e-mail address in config/settings.yml !
-- [ ] Uncomment and re-implement (adapt) the regex check of phone numbers (but in ohana-api-madrid! not in codeforamerica/ohana-api)
+- [ ] Uncomment and re-implement (adapt) the regex check of phone numbers
 	- adjust the regular expression here: https://github.com/amsorribes/ohana-api-madrid/blob/master/app/validators/phone_validator.rb#L5
 	- enable/disable the validation by un/commenting this line: https://github.com/amsorribes/ohana-api-madrid/blob/master/app/models/phone.rb#L16, and the comma at the end of line 15.
 
+#####Pull Requests & Issues#####
+- [ ] Submit a pull request with the “config/locales/es.yml” file to the ohana-api repo
+- [ ] Issue/Question - Why are my districts refused when the same valid_districts are defined in the settings file?
+- [ ] Pull Request: Change deploy to heroku script: ```:create``` not ```:add```
+- [ ] Pull Request, COLOR URL: 
+	- [ ] Edit instructions and explain what to do if you do not get a 'COLOR URL'
+	- [ ] File pull request
+- [ ] Pull Request: Translation
+	- [ ] Edit instructions on translation, point out all the places needed to change (settings.yml, more?)
+	- [ ] File pull request
 - [ ] Submit a pull request to the ohana-api repo with the “config/locales/es.yml” file, when it is/feels done
+
+####Front End####
+- [ ] Translation: Try to find more places that need translation (different config-files, etc)
+
+
+#####Pull Requests & Issues#####
+- [ ] Pull Request: Translation
+	- [ ] Edit instructions on translation, point out all the places needed to change (settings.yml, more?)
+	- [ ] File pull request
+	- [ ] Possibly file Issue, asking for help to make more parts of the web site translatable
+	- [ ] Issue: Ask for help in making Spanish default language in the Google translation boxes in top right corner of landing page
 - [ ] Submit a pull request to the ohana-web-search repo with the “config/locales/es.yml” file, when it is/feels done
-- [ ] Raise issue in ohana-web-search (and ohana-api) of need to be able to customize and translate a lot more words/headers/descriptors
-- [ ] Translate all the Taxonomy
+
+
+####Project Sharing####
+- [ ] Clean up branches on GitHub
+- [ ] Move whole dev-box directory structure to Dropbox, share link -- so someone can download whole thing and get it working
+
+
