@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8" ?><Contenidos>
+    <infoDataset>
+        <nombre>Centros de Atención para Menores y Familia</nombre>
+        <id>205244-0</id>
+        <uri>http://datos.madrid.es/egob/catalogo/205244-0-infancia-familia-adolescentes</uri>
+        <descripcion> Centros que ofrecen información, asesoramiento, formación y atención a menores y familias, así como programas de prevención y atención a situaciones de desprotección infantil: el Ayuntamiento de Madrid cuenta con diferentes recursos entre los que se encuentran una serie de centros de atención social especializada, con servicios orientados a dar respuesta a necesidades que afectan a la infancia, a la adolescencia y a las familias, llevándose a cabo en:    Centros de Apoyo a las Familias, CAF , cuyas actuaciones tienen por finalidad ayudar a las familias ante las dificultades que puedan surgir en la convivencia familiar, colaborando en la prevención y contención de situaciones de crisis o de conflicto.   Centros de Atención a la Infancia, CAI , ofrecen servicios de prevención, apoyo y atención a los menores en situación de riesgo grave o presunto desamparo y a sus familias , garantizando el buen trato a los menores y el fortalecimiento de las familias mediante el acompañamiento, la supervisión y el tratamiento especializado, aplicando en su intervención estrategias psicológicas, educativas y sociales. Junto con los Servicios de Atención Social Primaria (Centros de Servicios Sociales), configuran la red municipal de protección de menores en la ciudad de Madrid.   Puntos de Encuentro Familiar, PEF , dirigidos a familias con menores en las que se haya producido una ruptura en la convivencia familiar por separación o divorcio de los padres o por acogimiento familiar, y en las que el grado de conflictividad impide o dificulta gravemente el desarrollo del régimen de visitas. Tienen como objetivo favorecer el derecho de los menores a relacionarse con sus familiares. Facilitan a las familias un entorno idóneo y neutral para el desarrollo temporal de comunicación y visitas, siguiendo las pautas que establezcan las instancias judiciales o administrativas competentes.   Centros de Día Infantiles , ofrecen soporte social y educativo en horario no escolar para  favorecer el desarrollo personal y social de los menores entre 3 y 12 años, cuyas familias demandan apoyo para desempeñar su tarea educativa, ya sea porque tienen dificultades para atender a dichos menores o bien porque estos permanecen mucho tiempo solos sin un adulto de referencia.   Centros de Apoyo Socioeducativo y Prelaboral para Adolescentes, ASPA,  donde se desarrollan proyectos dirigidos a: adolescentes de 12 a 18 años en situación de desprotección social o que hayan protagonizado situaciones de violencia en diferentes contextos, y a jóvenes de 16 a 21 años que por factores personales, familiares y sociales, hayan abandonado procesos previos de inserción social y escolar y se encuentren inmersos en situación de riesgo de exclusión, necesitando un acompañamiento para su incorporación al mercado laboral.     A la derecha, en documentación asociada, tiene un documento explicativo.  </descripcion>
+    </infoDataset>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5666239</atributo>
+            <atributo nombre="NOMBRE">Centro de Adolescentes y Jóvenes ASPA Nº 1</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Este programa realizará actividades en el siguiente horario: de lunes a viernes de 10:00 a 14:00 y de 15:00 a 21:00 horas. Sábados de 10:00 a 14:00 horas. Actividades puntuales de fin de semana. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ A)  Proyecto de Apoyo Socioeducativo : Adolescentes de 12 a 18 años en situación de desprotección social, así como sus familias que presenten dificultades en el ejercicio de sus funciones parentales.   Intervenciones Psico-socio-educativas con los adolescentes y sus familias.  Intervención en medio abierto para detección de menores en riesgo.  Intervenciones grupales (talleres, salidas, deporte, ocio y tiempo libre)   B)  Proyecto de Apoyo Prevención Temprana de situaciones de violencia : Adolescentes de 12 a 18 años que de forma individual o a través de su integración de grupos organizados protagonicen actos de violencia hacia sus iguales, sus adultos de referencia u otros miembros de la sociedad   Intervención en situaciones de violencia causadas por menores en medio abierto.   Intervenciones específicas en centros educativos para la resolución de conflictos, violencia entre iguales, etc.   C)  Proyecto de Apoyo Prelaboral : Adolescentes de 16 a 21 años que por factores personales, familiares y sociales, hayan abandonado procesos previos de inserción social y escolar que se encuentren en situación de riesgo o de exclusión social.   Taller de inserción sociolaboral: (formación en entrevistas de trabajo, búsqueda autónoma de empleo, otros espacios de búsqueda activa de empleo a través de prensa, internet, teléfono, etc).  Asesoramiento sociolaboral individualizado, orientación formativa, acompañamiento a entrevistas.  Asesoramiento a empresas: información sobre modalidades y procedimientos de contratación, preselección de candidatos.  Intermediación laboral: seguimiento durante todo el proceso de selección, incorporación, contratación y mantenimiento del empleo.   ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Estrecho (Línea 1)  Bus: 124, 128, 3, 66 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Acceso:  Acudir al  Centro de Servicios Sociales  que corresponda por domicilio en horario de atención al público o acudir directamente al Centro de Adolescentes asignado al Distrito.    Ámbito de actuación:  Centro, Retiro, Tetuán, Chamberí, Fuencarral-El Pardo, Moncloa-Aravaca.   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a60df44795448210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CASTILLA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">22-24</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28039</atributo>
+                <atributo nombre="BARRIO">BELLAS VISTAS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">440349</atributo>
+                <atributo nombre="COORDENADA-Y">4478495</atributo>
+                <atributo nombre="LATITUD">40.4530979441115</atributo>
+                <atributo nombre="LONGITUD">-3.7047854329708607</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 981 543</atributo>
+                <atributo nombre="EMAIL">adolescentesjovenes1@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosAdolescentesJovenes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5685956</atributo>
+            <atributo nombre="NOMBRE">Centro de Adolescentes y Jóvenes ASPA Nº 2</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Este programa realizará actividades en el siguiente horario: de lunes a viernes de 10:00 a 14:00 y de 15:00 a 21:00 horas. Sábados de 10:00 a 14:00 horas. Actividades puntuales de fin de semana. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ A)  Proyecto de Apoyo Socioeducativo : Adolescentes de 12 a 18 años en situación de desprotección social, así como sus familias que presenten dificultades en el ejercicio de sus funciones parentales.   Intervenciones Psico-socio-educativas con los adolescentes y sus familias.  Intervención en medio abierto para detección de menores en riesgo.  Intervenciones grupales (talleres, salidas, deporte, ocio y tiempo libre)   B)  Proyecto de Apoyo Prevención Temprana de situaciones de violencia : Adolescentes de 12 a 18 años que de forma individual o a través de su integración de grupos organizados protagonicen actos de violencia hacia sus iguales, sus adultos de referencia u otros miembros de la sociedad   Intervención en situaciones de violencia causadas por menores en medio abierto.   Intervenciones específicas en centros educativos para la resolución de conflictos, violencia entre iguales, etc.   C)  Proyecto de Apoyo Prelaboral : Adolescentes de 16 a 21 años que por factores personales, familiares y sociales, hayan abandonado procesos previos de inserción social y escolar que se encuentren en situación de riesgo o de exclusión social.   Taller de inserción sociolaboral: (formación en entrevistas de trabajo, búsqueda autónoma de empleo, otros espacios de búsqueda activa de empleo a través de prensa, internet, teléfono, etc).  Asesoramiento sociolaboral individualizado, orientación formativa, acompañamiento a entrevistas.  Asesoramiento a empresas: información sobre modalidades y procedimientos de contratación, preselección de candidatos.  Intermediación laboral: seguimiento durante todo el proceso de selección, incorporación, contratación y mantenimiento del empleo.   ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Prosperidad (Línea 4) Bus: 9, 72, 73 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Acceso:  Acudir al  Centro de Servicios Sociales  que corresponda por domicilio en horario de atención al público o acudir directamente al Centro de Adolescentes asignado al Distrito.    Ámbito de actuación:  Salamanca, Chamartín, Moratalaz, Ciudad Lineal, Hortaleza, San Blas-Canillejas, Barajas.   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=12bce7db0d598210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CARDENAL SILICEO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">7</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28002</atributo>
+                <atributo nombre="BARRIO">PROSPERIDAD</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">443194</atributo>
+                <atributo nombre="COORDENADA-Y">4477591</atributo>
+                <atributo nombre="LATITUD">40.44515396681703</atributo>
+                <atributo nombre="LONGITUD">-3.671154426276392</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 339 110</atributo>
+                <atributo nombre="EMAIL">adolescentesjovenes2@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosAdolescentesJovenes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5685966</atributo>
+            <atributo nombre="NOMBRE">Centro de Adolescentes y Jóvenes ASPA Nº 3</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Este programa realizará actividades en el siguiente horario: de lunes a viernes de 10:00 a 14:00 y de 15:00 a 21:00 horas. Sábados de 10:00 a 14:00 horas. Actividades puntuales de fin de semana. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ A)  Proyecto de Apoyo Socioeducativo : Adolescentes de 12 a 18 años en situación de desprotección social, así como sus familias que presenten dificultades en el ejercicio de sus funciones parentales.   Intervenciones Psico-socio-educativas con los adolescentes y sus familias.  Intervención en medio abierto para detección de menores en riesgo.  Intervenciones grupales (talleres, salidas, deporte, ocio y tiempo libre)   B)  Proyecto de Apoyo Prevención Temprana de situaciones de violencia : Adolescentes de 12 a 18 años que de forma individual o a través de su integración de grupos organizados protagonicen actos de violencia hacia sus iguales, sus adultos de referencia u otros miembros de la sociedad   Intervención en situaciones de violencia causadas por menores en medio abierto.   Intervenciones específicas en centros educativos para la resolución de conflictos, violencia entre iguales, etc.   C)  Proyecto de Apoyo Prelaboral : Adolescentes de 16 a 21 años que por factores personales, familiares y sociales, hayan abandonado procesos previos de inserción social y escolar que se encuentren en situación de riesgo o de exclusión social.   Taller de inserción sociolaboral: (formación en entrevistas de trabajo, búsqueda autónoma de empleo, otros espacios de búsqueda activa de empleo a través de prensa, internet, teléfono, etc).  Asesoramiento sociolaboral individualizado, orientación formativa, acompañamiento a entrevistas.  Asesoramiento a empresas: información sobre modalidades y procedimientos de contratación, preselección de candidatos.  Intermediación laboral: seguimiento durante todo el proceso de selección, incorporación, contratación y mantenimiento del empleo.   ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 130, 131, 22, 76, 86. Cercanías Renfe: Puente Alcocer. ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Acceso:  Acudir al  Centro de Servicios Sociales  que corresponda por domicilio en horario de atención al público o acudir directamente al Centro de Adolescentes asignado al Distrito.    Ámbito de actuación:  Puente de Vallecas, Villaverde, Villa de Vallecas y Vicálvaro.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=858fe7db0d598210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">EDUARDO BARREIROS</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">153</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28041</atributo>
+                <atributo nombre="BARRIO">SAN ANDRES</atributo>
+                <atributo nombre="DISTRITO">VILLAVERDE</atributo>
+                <atributo nombre="COORDENADA-X">440310</atributo>
+                <atributo nombre="COORDENADA-Y">4467143</atributo>
+                <atributo nombre="LATITUD">40.350830731387134</atributo>
+                <atributo nombre="LONGITUD">-3.70417890485153</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 109 350</atributo>
+                <atributo nombre="EMAIL">adolescentesjovenes3@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosAdolescentesJovenes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5686562</atributo>
+            <atributo nombre="NOMBRE">Centro de Adolescentes y Jóvenes ASPA Nº 4</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Este programa realizará actividades en el siguiente horario: de lunes a viernes de 10:00 a 14:00 y de 15:00 a 21:00 horas. Sábados de 10:00 a 14:00 horas. Actividades puntuales de fin de semana. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ A)  Proyecto de Apoyo Socioeducativo : Adolescentes de 12 a 18 años en situación de desprotección social, así como sus familias que presenten dificultades en el ejercicio de sus funciones parentales.   Intervenciones Psico-socio-educativas con los adolescentes y sus familias.  Intervención en medio abierto para detección de menores en riesgo.  Intervenciones grupales (talleres, salidas, deporte, ocio y tiempo libre)   B)  Proyecto de Apoyo Prevención Temprana de situaciones de violencia : Adolescentes de 12 a 18 años que de forma individual o a través de su integración de grupos organizados protagonicen actos de violencia hacia sus iguales, sus adultos de referencia u otros miembros de la sociedad   Intervención en situaciones de violencia causadas por menores en medio abierto.   Intervenciones específicas en centros educativos para la resolución de conflictos, violencia entre iguales, etc.   C)  Proyecto de Apoyo Prelaboral : Adolescentes de 16 a 21 años que por factores personales, familiares y sociales, hayan abandonado procesos previos de inserción social y escolar que se encuentren en situación de riesgo o de exclusión social.   Taller de inserción sociolaboral: (formación en entrevistas de trabajo, búsqueda autónoma de empleo, otros espacios de búsqueda activa de empleo a través de prensa, internet, teléfono, etc).  Asesoramiento sociolaboral individualizado, orientación formativa, acompañamiento a entrevistas.  Asesoramiento a empresas: información sobre modalidades y procedimientos de contratación, preselección de candidatos.  Intermediación laboral: seguimiento durante todo el proceso de selección, incorporación, contratación y mantenimiento del empleo.   ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 35, 155 Metro: La Peseta (Línea 11) ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Acceso:  Acudir al  Centro de Servicios Sociales  que corresponda por domicilio en horario de atención al público o acudir directamente al Centro de Adolescentes asignado al Distrito.    Ámbito de actuación:  Arganzuela, Latina, Carabanchel y Usera.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2bedb9aa16698210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PATRIMONIO DE LA HUMANIDAD</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">37</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28054</atributo>
+                <atributo nombre="BARRIO">BUENAVISTA</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="COORDENADA-X">435279</atributo>
+                <atributo nombre="COORDENADA-Y">4468436</atributo>
+                <atributo nombre="LATITUD">40.36210281029443</atributo>
+                <atributo nombre="LONGITUD">-3.7635483773274845</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 920 280</atributo>
+                <atributo nombre="EMAIL">adolescentesjovenes4@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosAdolescentesJovenes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">161534</atributo>
+            <atributo nombre="NOMBRE">Centro de Apoyo a las Familias CAF 1</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ De lunes a viernes, de 10 a 14 y de 16 a 20:30 horas (información y atención telefónica hasta 18:30 horas). ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[  Información a familias y profesionales:  presencial, telefónica o telemática, sobre el Centro de apoyo a las Familias u otros recursos para las familias.   Orientación Social : atención social a las familias. Información y derivación a programas o recursos, si procede.   Asesoramiento jurídico en materia de familia : información y orientación desde el punto de vista legal, en asuntos relacionados con la familia (filiación, disolución de régimen económico matrimonial, divorcio, ruptura de pareja, herencias, etc).   Atención psicológica ante las dificultades en el ámbito de las relaciones familiares : orientación e intervención, en función de la situación familiar.   Atención y prevención de las relaciones de violencia en el ámbito familiar : intervención dirigida a todos los miembros de la familia, tanto los que sufren como los que ejercen la violencia, para reducirla y prevenir futuras situaciones de violencia.    Mediación familiar  : apoyo profesional para ayudar a afrontar y gestionar situaciones de conflicto, promoviendo acuerdos consensuados (ruptura de pareja, cuidado de mayores o dependientes, discrepancias intergeneracionales, etc.).   Espacio de relación para familias con niños de 0 a 3 años : grupos de padres e hijos en los que, a través del juego y la información, se favorece la vinculación afectiva, el intercambio de experiencias y la creación de redes entre familias.    Formación a familias :  actividades grupales de reflexión y formación, dirigidas a familias y profesionales, para la promoción de habilidades en la convivencia familiar (escuela de padres y otras acciones formativas). Programa formativo mensual en  http://www.madrid.es/     Participación comunitaria  (colaborar con la red social): el Centro de Apoyo a las Familias promueve la coordinación con la red social y la participación de las familias en actividades comunitarias.    Bancos del Tiempo :  redes de ayuda mutua entre ciudadanos, de intercambio de servicios, cuya unidad de valor es la hora. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Iglesia (Línea 1) Bus: 3, 5, 16, 40, 61, 147 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Información  telefónica, presencial, virtual (Internet - Correo Electrónico)   Ámbito de actuación : Centro, Arganzuela, Chamberí y Moncloa-Aravaca.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7f61ba61e681c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RAFAEL CALVO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">8</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28010</atributo>
+                <atributo nombre="BARRIO">ALMAGRO</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">441022</atributo>
+                <atributo nombre="COORDENADA-Y">4476324</atributo>
+                <atributo nombre="LATITUD">40.43358873095472</atributo>
+                <atributo nombre="LONGITUD">-3.696647094545171</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 061 860/861</atributo>
+                <atributo nombre="EMAIL">caf-1@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionFamilia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">161541</atributo>
+            <atributo nombre="NOMBRE">Centro de Apoyo a las Familias CAF 2</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ De lunes a viernes, de 10 a 14 y de 16 a 20:30 horas (información y atención telefónica hasta 18:30 horas). ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[  Información a familias y profesionales:  presencial, telefónica o telemática, sobre el Centro de apoyo a las Familias u otros recursos para las familias.   Orientación Social : atención social a las familias. Información y derivación a programas o recursos, si procede.   Asesoramiento jurídico en materia de familia : información y orientación desde el punto de vista legal, en asuntos relacionados con la familia (filiación, disolución de régimen económico matrimonial, divorcio, ruptura de pareja, herencias, etc).   Atención psicológica ante las dificultades en el ámbito de las relaciones familiares : orientación e intervención, en función de la situación familiar.   Atención y prevención de las relaciones de violencia en el ámbito familiar : intervención dirigida a todos los miembros de la familia, tanto los que sufren como los que ejercen la violencia, para reducirla y prevenir futuras situaciones de violencia.    Mediación familiar  : apoyo profesional para ayudar a afrontar y gestionar situaciones de conflicto, promoviendo acuerdos consensuados (ruptura de pareja, cuidado de mayores o dependientes, discrepancias intergeneracionales, etc.).   Espacio de relación para familias con niños de 0 a 3 años : grupos de padres e hijos en los que, a través del juego y la información, se favorece la vinculación afectiva, el intercambio de experiencias y la creación de redes entre familias.    Formación a familias :  actividades grupales de reflexión y formación, dirigidas a familias y profesionales, para la promoción de habilidades en la convivencia familiar (escuela de padres y otras acciones formativas). Programa formativo mensual en  http://www.madrid.es/     Participación comunitaria  (colaborar con la red social): el Centro de Apoyo a las Familias promueve la coordinación con la red social y la participación de las familias en actividades comunitarias.    Bancos del Tiempo :  redes de ayuda mutua entre ciudadanos, de intercambio de servicios, cuya unidad de valor es la hora. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Campo de las Naciones (Línea 8), Canillas (Línea 4)  Bus: 104, 112, 122, 153 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Información  telefónica, presencial, virtual (Internet - Correo electrónico)   Ámbito de actuación:  Distritos de Ciudad Lineal, Hortaleza, San Blas y Barajas.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c591ba61e681c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FRANCISCO MOREJON</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">4</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28043</atributo>
+                <atributo nombre="BARRIO">PIOVERA</atributo>
+                <atributo nombre="DISTRITO">HORTALEZA</atributo>
+                <atributo nombre="COORDENADA-X">447256</atributo>
+                <atributo nombre="COORDENADA-Y">4479133</atributo>
+                <atributo nombre="LATITUD">40.45931333028378</atributo>
+                <atributo nombre="LONGITUD">-3.6233864042484667</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 677 655</atributo>
+                <atributo nombre="EMAIL">caf-2@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionFamilia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">161546</atributo>
+            <atributo nombre="NOMBRE">Centro de Apoyo a las Familias CAF 3</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ De lunes a viernes, de 10 a 14 y de 16 a 20:30 horas (información y atención telefónica hasta 18:30 horas). ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[  Información a familias y profesionales:  presencial, telefónica o telemática, sobre el Centro de apoyo a las Familias u otros recursos para las familias.   Orientación Social : atención social a las familias. Información y derivación a programas o recursos, si procede.   Asesoramiento jurídico en materia de familia : información y orientación desde el punto de vista legal, en asuntos relacionados con la familia (filiación, disolución de régimen económico matrimonial, divorcio, ruptura de pareja, herencias, etc).   Atención psicológica ante las dificultades en el ámbito de las relaciones familiares : orientación e intervención, en función de la situación familiar.   Atención y prevención de las relaciones de violencia en el ámbito familiar : intervención dirigida a todos los miembros de la familia, tanto los que sufren como los que ejercen la violencia, para reducirla y prevenir futuras situaciones de violencia.    Mediación familiar  : apoyo profesional para ayudar a afrontar y gestionar situaciones de conflicto, promoviendo acuerdos consensuados (ruptura de pareja, cuidado de mayores o dependientes, discrepancias intergeneracionales, etc.).   Espacio de relación para familias con niños de 0 a 3 años : grupos de padres e hijos en los que, a través del juego y la información, se favorece la vinculación afectiva, el intercambio de experiencias y la creación de redes entre familias.    Formación a familias :  actividades grupales de reflexión y formación, dirigidas a familias y profesionales, para la promoción de habilidades en la convivencia familiar (escuela de padres y otras acciones formativas). Programa formativo mensual en  http://www.madrid.es/     Participación comunitaria  (colaborar con la red social): el Centro de Apoyo a las Familias promueve la coordinación con la red social y la participación de las familias en actividades comunitarias.    Bancos del Tiempo :  redes de ayuda mutua entre ciudadanos, de intercambio de servicios, cuya unidad de valor es la hora. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Plaza Elíptica (Líneas  6, 11)    Bus: 6, 60, 81,78 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Información  telefónica, presencial, virtual (Internet - Correo electrónico)   Ámbito de Actuación  Carabanchel, Usera.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=1cb1ba61e681c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RAFAELA YBARRA</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">41</atributo>
+                <atributo nombre="ORIENTACION">Junta Municipal de Distrito Usera</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28026</atributo>
+                <atributo nombre="BARRIO">PRADOLONGO</atributo>
+                <atributo nombre="DISTRITO">USERA</atributo>
+                <atributo nombre="COORDENADA-X">439780</atributo>
+                <atributo nombre="COORDENADA-Y">4470653</atributo>
+                <atributo nombre="LATITUD">40.38241253009179</atributo>
+                <atributo nombre="LONGITUD">-3.7107515747822353</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 632 342 </atributo>
+                <atributo nombre="EMAIL">caf-3@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionFamilia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">168493</atributo>
+            <atributo nombre="NOMBRE">Centro de Apoyo a las Familias CAF 4</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ De lunes a viernes, de 10 a 14 y de 16 a 20:30 horas (información y atención telefónica hasta 18:30 horas). ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[  Información a familias y profesionales:  presencial, telefónica o telemática, sobre el Centro de apoyo a las Familias u otros recursos para las familias.   Orientación Social : atención social a las familias. Información y derivación a programas o recursos, si procede.   Asesoramiento jurídico en materia de familia : información y orientación desde el punto de vista legal, en asuntos relacionados con la familia (filiación, disolución de régimen económico matrimonial, divorcio, ruptura de pareja, herencias, etc).   Atención psicológica ante las dificultades en el ámbito de las relaciones familiares : orientación e intervención, en función de la situación familiar.   Atención y prevención de las relaciones de violencia en el ámbito familiar : intervención dirigida a todos los miembros de la familia, tanto los que sufren como los que ejercen la violencia, para reducirla y prevenir futuras situaciones de violencia.    Mediación familiar  : apoyo profesional para ayudar a afrontar y gestionar situaciones de conflicto, promoviendo acuerdos consensuados (ruptura de pareja, cuidado de mayores o dependientes, discrepancias intergeneracionales, etc.).   Espacio de relación para familias con niños de 0 a 3 años : grupos de padres e hijos en los que, a través del juego y la información, se favorece la vinculación afectiva, el intercambio de experiencias y la creación de redes entre familias.    Formación a familias :  actividades grupales de reflexión y formación, dirigidas a familias y profesionales, para la promoción de habilidades en la convivencia familiar (escuela de padres y otras acciones formativas). Programa formativo mensual en  http://www.madrid.es/     Participación comunitaria  (colaborar con la red social): el Centro de Apoyo a las Familias promueve la coordinación con la red social y la participación de las familias en actividades comunitarias.    Bancos del Tiempo :  redes de ayuda mutua entre ciudadanos, de intercambio de servicios, cuya unidad de valor es la hora. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Cercanías - Renfe: Asamblea de Madrid-Entrevías (Línea C-7) Bus: 24, 102, 111 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Información  telefónica, presencial, virtual (Internet - Correo electrónico)   Ámbito de actuación  Distritos de Puente Vallecas, Villaverde y Villa de Vallecas.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=98a4085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CONDE RODRIGUEZ SAN PEDRO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">59</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28053</atributo>
+                <atributo nombre="BARRIO">ENTREVIAS</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+                <atributo nombre="COORDENADA-X">443216</atributo>
+                <atributo nombre="COORDENADA-Y">4470748</atributo>
+                <atributo nombre="LATITUD">40.38351004859704</atributo>
+                <atributo nombre="LONGITUD">-3.6702830279075456</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 780 630</atributo>
+                <atributo nombre="EMAIL">caf-4@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionFamilia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">174539</atributo>
+            <atributo nombre="NOMBRE">Centro de Apoyo a las Familias CAF 5</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ De lunes a viernes, de 10 a 14 y de 16 a 20:30 horas (información y atención telefónica hasta 18:30 horas). ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[  Información a familias y profesionales:  presencial, telefónica o telemática, sobre el Centro de apoyo a las Familias u otros recursos para las familias.   Orientación Social : atención social a las familias. Información y derivación a programas o recursos, si procede.   Asesoramiento jurídico en materia de familia : información y orientación desde el punto de vista legal, en asuntos relacionados con la familia (filiación, disolución de régimen económico matrimonial, divorcio, ruptura de pareja, herencias, etc).   Atención psicológica ante las dificultades en el ámbito de las relaciones familiares : orientación e intervención, en función de la situación familiar.   Atención y prevención de las relaciones de violencia en el ámbito familiar : intervención dirigida a todos los miembros de la familia, tanto los que sufren como los que ejercen la violencia, para reducirla y prevenir futuras situaciones de violencia.    Mediación familiar  : apoyo profesional para ayudar a afrontar y gestionar situaciones de conflicto, promoviendo acuerdos consensuados (ruptura de pareja, cuidado de mayores o dependientes, discrepancias intergeneracionales, etc.).   Espacio de relación para familias con niños de 0 a 3 años : grupos de padres e hijos en los que, a través del juego y la información, se favorece la vinculación afectiva, el intercambio de experiencias y la creación de redes entre familias.    Formación a familias :  actividades grupales de reflexión y formación, dirigidas a familias y profesionales, para la promoción de habilidades en la convivencia familiar (escuela de padres y otras acciones formativas). Programa formativo mensual en  http://www.madrid.es/     Participación comunitaria  (colaborar con la red social): el Centro de Apoyo a las Familias promueve la coordinación con la red social y la participación de las familias en actividades comunitarias.    Bancos del Tiempo :  redes de ayuda mutua entre ciudadanos, de intercambio de servicios, cuya unidad de valor es la hora. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Pavones (Línea 9) Bus: 8, 20, 142, 144 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Información  telefónica, presencial, virtual (Internet - Correo electrónico)   Ambito de Actuación  Distritos de Retiro, Salamanca, Moratalaz y Vicálvaro.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e93e14c4d661c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FUENTE CARRANTONA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">8</atributo>
+                <atributo nombre="PLANTA">BAJO</atributo>
+                <atributo nombre="ORIENTACION">Centro Servicios Sociales &amp;quot;Fuente Carrantona&amp;quot;</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28030</atributo>
+                <atributo nombre="BARRIO">PAVONES</atributo>
+                <atributo nombre="DISTRITO">MORATALAZ</atributo>
+                <atributo nombre="COORDENADA-X">446066</atributo>
+                <atributo nombre="COORDENADA-Y">4472398</atributo>
+                <atributo nombre="LATITUD">40.39856403422721</atributo>
+                <atributo nombre="LONGITUD">-3.636848463271078</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 648 184</atributo>
+                <atributo nombre="EMAIL">caf-5@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionFamilia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">174545</atributo>
+            <atributo nombre="NOMBRE">Centro de Apoyo a las Familias CAF 6</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ De lunes a viernes, de 10 a 14 y de 16 a 20:30 horas (información y atención telefónica hasta 18:30 horas). ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[  Información a familias y profesionales:  presencial, telefónica o telemática, sobre el Centro de apoyo a las Familias u otros recursos para las familias.   Orientación Social : atención social a las familias. Información y derivación a programas o recursos, si procede.   Asesoramiento jurídico en materia de familia : información y orientación desde el punto de vista legal, en asuntos relacionados con la familia (filiación, disolución de régimen económico matrimonial, divorcio, ruptura de pareja, herencias, etc).   Atención psicológica ante las dificultades en el ámbito de las relaciones familiares : orientación e intervención, en función de la situación familiar.   Atención y prevención de las relaciones de violencia en el ámbito familiar : intervención dirigida a todos los miembros de la familia, tanto los que sufren como los que ejercen la violencia, para reducirla y prevenir futuras situaciones de violencia.    Mediación familiar  : apoyo profesional para ayudar a afrontar y gestionar situaciones de conflicto, promoviendo acuerdos consensuados (ruptura de pareja, cuidado de mayores o dependientes, discrepancias intergeneracionales, etc.).   Espacio de relación para familias con niños de 0 a 3 años : grupos de padres e hijos en los que, a través del juego y la información, se favorece la vinculación afectiva, el intercambio de experiencias y la creación de redes entre familias.    Formación a familias :  actividades grupales de reflexión y formación, dirigidas a familias y profesionales, para la promoción de habilidades en la convivencia familiar (escuela de padres y otras acciones formativas). Programa formativo mensual en  http://www.madrid.es/     Participación comunitaria  (colaborar con la red social): el Centro de Apoyo a las Familias promueve la coordinación con la red social y la participación de las familias en actividades comunitarias.    Bancos del Tiempo :  redes de ayuda mutua entre ciudadanos, de intercambio de servicios, cuya unidad de valor es la hora. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Antonio Machado (Línea 7) Bus: 42, 49, 126, 127, 128, 132 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Información  telefónica, presencial, virtual (Internet - Correo electrónico)   Ámbito de Actuación  Distritos de Tetúan, Fuencarral-El Pardo y Chamartin.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=306e14c4d661c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BUITRAGO DEL LOZOYA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">22</atributo>
+                <atributo nombre="ORIENTACION">EN EL CENTRO DE SERVICIOS SOCIALES SAN VICENTE DE PAÚL</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28035</atributo>
+                <atributo nombre="BARRIO">PEÑA GRANDE</atributo>
+                <atributo nombre="DISTRITO">FUENCARRAL-EL PARDO</atributo>
+                <atributo nombre="COORDENADA-X">439364</atributo>
+                <atributo nombre="COORDENADA-Y">4480655</atributo>
+                <atributo nombre="LATITUD">40.47248462688415</atributo>
+                <atributo nombre="LONGITUD">-3.716607833008478</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 981 438</atributo>
+                <atributo nombre="EMAIL">caf-6@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionFamilia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5563009</atributo>
+            <atributo nombre="NOMBRE">Centro de Apoyo a las Familias CAF 7</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ De lunes a viernes, de 10 a 14 y de 16 a 20:30 horas (información y atención telefónica hasta 18:30 horas). ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[  Información a familias y profesionales:  presencial, telefónica o telemática, sobre el Centro de apoyo a las Familias u otros recursos para las familias.   Orientación Social : atención social a las familias. Información y derivación a programas o recursos, si procede.   Asesoramiento jurídico en materia de familia : información y orientación desde el punto de vista legal, en asuntos relacionados con la familia (filiación, disolución de régimen económico matrimonial, divorcio, ruptura de pareja, herencias, etc).   Atención psicológica ante las dificultades en el ámbito de las relaciones familiares : orientación e intervención, en función de la situación familiar.   Atención y prevención de las relaciones de violencia en el ámbito familiar : intervención dirigida a todos los miembros de la familia, tanto los que sufren como los que ejercen la violencia, para reducirla y prevenir futuras situaciones de violencia.    Mediación familiar  : apoyo profesional para ayudar a afrontar y gestionar situaciones de conflicto, promoviendo acuerdos consensuados (ruptura de pareja, cuidado de mayores o dependientes, discrepancias intergeneracionales, etc.).   Espacio de relación para familias con niños de 0 a 3 años : grupos de padres e hijos en los que, a través del juego y la información, se favorece la vinculación afectiva, el intercambio de experiencias y la creación de redes entre familias.    Formación a familias :  actividades grupales de reflexión y formación, dirigidas a familias y profesionales, para la promoción de habilidades en la convivencia familiar (escuela de padres y otras acciones formativas). Programa formativo mensual en  http://www.madrid.es/     Participación comunitaria  (colaborar con la red social): el Centro de Apoyo a las Familias promueve la coordinación con la red social y la participación de las familias en actividades comunitarias.    Bancos del Tiempo :  redes de ayuda mutua entre ciudadanos, de intercambio de servicios, cuya unidad de valor es la hora. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Aluche (Línea 5) Bus: 155, 117, 17 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Información   telefónica , presencial, virtual (Internet - Correo electrónico)   Ámbito de Actuación  Distritos de Latina.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=50eafd6c2ce86210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FUERTE DE NAVIDAD</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">15</atributo>
+                <atributo nombre="ORIENTACION">CENTRO SERVICIOS SOCIALES FUERTE DE NAVIDAD</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28044</atributo>
+                <atributo nombre="BARRIO">LAS AGUILAS</atributo>
+                <atributo nombre="DISTRITO">LATINA</atributo>
+                <atributo nombre="COORDENADA-X">435112</atributo>
+                <atributo nombre="COORDENADA-Y">4470487</atributo>
+                <atributo nombre="LATITUD">40.380566072889415</atributo>
+                <atributo nombre="LONGITUD">-3.7657241589764547</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 644 376</atributo>
+                <atributo nombre="EMAIL">caf-7@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionFamilia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">11238</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 1 Centro / Retiro / Salamanca / Chamberí</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los  CAI , que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Puerta de Toledo (Línea 5) Bus: C, 3, 148  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[ Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias. ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0e9181eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PALOMA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28005</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439709</atributo>
+                <atributo nombre="COORDENADA-Y">4473484</atributo>
+                <atributo nombre="LATITUD">40.407910420186084</atributo>
+                <atributo nombre="LONGITUD">-3.711856501850917</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 880 762</atributo>
+                <atributo nombre="EMAIL">cai1@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">11240</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 2 Hortaleza / Ciudad Lineal</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20:00 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los  CAI , que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Campo de las Naciones (Línea 8), Canillas (Línea 4) Bus: 104, 112, 122, 153 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[ Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias. ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=54c181eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FRANCISCO MOREJON</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">4</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28043</atributo>
+                <atributo nombre="BARRIO">PIOVERA</atributo>
+                <atributo nombre="DISTRITO">HORTALEZA</atributo>
+                <atributo nombre="COORDENADA-X">447256</atributo>
+                <atributo nombre="COORDENADA-Y">4479133</atributo>
+                <atributo nombre="LATITUD">40.45931333028378</atributo>
+                <atributo nombre="LONGITUD">-3.6233864042484667</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 884 745</atributo>
+                <atributo nombre="EMAIL">cai2@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5948219</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 2 San Blas / Barajas</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20:00 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los CAI, que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Barrio de la Concepción (Línea 7) Bus: 11, 53, 122 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[ Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias. ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c90c4c8c750fd210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">TORRE ARIAS</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28022</atributo>
+                <atributo nombre="BARRIO">CANILLEJAS</atributo>
+                <atributo nombre="DISTRITO">SAN BLAS-CANILLEJAS</atributo>
+                <atributo nombre="COORDENADA-X">448173</atributo>
+                <atributo nombre="COORDENADA-Y">4477672</atributo>
+                <atributo nombre="LATITUD">40.44620961485589</atributo>
+                <atributo nombre="LONGITUD">-3.6124519330001954</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 432 284</atributo>
+                <atributo nombre="EMAIL">cai2@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">11241</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 3 Usera / Arganzuela / Villaverde</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20:00 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los CAI, que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Plaza Elíptica (Línea 6, Línea 11) Bus: 116 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[ Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=aae181eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RICARDO BELTRAN Y ROZPIDE</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">33</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28026</atributo>
+                <atributo nombre="BARRIO">ZOFIO</atributo>
+                <atributo nombre="DISTRITO">USERA</atributo>
+                <atributo nombre="COORDENADA-X">439176</atributo>
+                <atributo nombre="COORDENADA-Y">4470380</atributo>
+                <atributo nombre="LATITUD">40.379909257854415</atributo>
+                <atributo nombre="LONGITUD">-3.7178407050252598</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 655 535</atributo>
+                <atributo nombre="EMAIL">cai3@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">11239</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 4 Puente de Vallecas</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20:00 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los  CAI , que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Miguel Hernández (Línea 1)  Bus: 54, 144 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[ Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias. ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f01281eb5f51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">LUIS BUÑUEL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">NUM</atributo>
+                <atributo nombre="NUM">12</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28018</atributo>
+                <atributo nombre="BARRIO">PALOMERAS SURESTE</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+                <atributo nombre="COORDENADA-X">445471</atributo>
+                <atributo nombre="COORDENADA-Y">4471090</atributo>
+                <atributo nombre="LATITUD">40.38674193188329</atributo>
+                <atributo nombre="LONGITUD">-3.643747239178515</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 771 822</atributo>
+                <atributo nombre="EMAIL">cai4@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5981440</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 4 Villa de Vallecas</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20:00 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los  CAI , que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Congosto (Línea 1) Bus: 54, 142 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[ Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias. ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=91f4c2164ea7e210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FUENTIDUEÑA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">16</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28031</atributo>
+                <atributo nombre="BARRIO">CASCO H.VALLECAS</atributo>
+                <atributo nombre="DISTRITO">VILLA DE VALLECAS</atributo>
+                <atributo nombre="COORDENADA-X">447312</atributo>
+                <atributo nombre="COORDENADA-Y">4469289</atributo>
+                <atributo nombre="LATITUD">40.3706360093767</atributo>
+                <atributo nombre="LONGITUD">-3.6219089216132527</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">912 798 883</atributo>
+                <atributo nombre="EMAIL">cai4@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5563793</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 5 Fuencarral-El Pardo / Moncloa-Aravaca</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20:00 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los CAI, que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 42 Metro: Antonio Machado (Línea 7) ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ca9c06d66d296210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BUITRAGO DEL LOZOYA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">22</atributo>
+                <atributo nombre="ORIENTACION">EN EL CENTRO DE SERVICIOS SOCIALES SAN VICENTE DE PAÚL</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28035</atributo>
+                <atributo nombre="BARRIO">PEÑA GRANDE</atributo>
+                <atributo nombre="DISTRITO">FUENCARRAL-EL PARDO</atributo>
+                <atributo nombre="COORDENADA-X">439364</atributo>
+                <atributo nombre="COORDENADA-Y">4480655</atributo>
+                <atributo nombre="LATITUD">40.47248462688415</atributo>
+                <atributo nombre="LONGITUD">-3.716607833008478</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">911 280 995</atributo>
+                <atributo nombre="EMAIL">cai5@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">34996</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 5 Tetuán / Chamartín</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20:00 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los CAI, que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 42, 49, 124 Metro: Ventilla (Línea 9) ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[ Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias.  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b5e6b3e42751c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">GENERAL ARANDA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">30</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28029</atributo>
+                <atributo nombre="BARRIO">ALMENARA</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">441273</atributo>
+                <atributo nombre="COORDENADA-Y">4480718</atributo>
+                <atributo nombre="LATITUD">40.47318957937898</atributo>
+                <atributo nombre="LONGITUD">-3.6940951975368956</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 153 440</atributo>
+                <atributo nombre="FAX">913 154 498</atributo>
+                <atributo nombre="EMAIL">cai5@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">145005</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 6 Latina</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20:00 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los  CAI , que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Casa de Campo (Línea 5, Línea 10) Bus: 36, 39 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[ Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias. ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=207c654d9d91f010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALVERJA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">11</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28011</atributo>
+                <atributo nombre="BARRIO">LUCERO</atributo>
+                <atributo nombre="DISTRITO">LATINA</atributo>
+                <atributo nombre="COORDENADA-X">436037</atributo>
+                <atributo nombre="COORDENADA-Y">4472850</atributo>
+                <atributo nombre="LATITUD">40.4019245811102</atributo>
+                <atributo nombre="LONGITUD">-3.7550656029381297</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 645 960</atributo>
+                <atributo nombre="EMAIL">cai6@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">176514</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 7 Vicálvaro / Moratalaz</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20:00 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los  CAI , que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Valdebernardo (Línea 9) Bus: 71, 130, 8 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[ Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias. ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=fd5f4b6faa61c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">LADERA DE LOS ALMENDROS</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">6</atributo>
+                <atributo nombre="ORIENTACION">EN EL CENTRO DE SERVICIOS SOCIALES VALDEBERNARDO</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28032</atributo>
+                <atributo nombre="BARRIO">CASCO H.VICALVARO</atributo>
+                <atributo nombre="DISTRITO">VICALVARO</atributo>
+                <atributo nombre="COORDENADA-X">447216</atributo>
+                <atributo nombre="COORDENADA-Y">4472900</atributo>
+                <atributo nombre="LATITUD">40.40316021249795</atributo>
+                <atributo nombre="LONGITUD">-3.623339471293246</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 016 981</atributo>
+                <atributo nombre="EMAIL">cai7@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5563776</atributo>
+            <atributo nombre="NOMBRE">Centro de Atención a la Infancia CAI 8 Carabanchel</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ Con carácter general, de lunes a viernes de 9 a 20:00 horas. Verano (del 1 de julio al 30 de septiembre): de lunes a viernes de 9 a 15:30 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[   Valoración inicial de situaciones de riesgo en menores.  Ante una posible situación de riesgo de un menor se iniciará la pertinente investigación.   Evaluación de la situación familiar y, en su caso, de desprotección de los menores.  Una vez realizada se presentará a la familia los resultados de la evaluación y el de Plan de Mejora Familiar.   Tratamiento familiar especializado.  Desarrollar el Plan de Mejora Familiar con el objetivo de evitar la separación del menor de la familia o conseguir su retorno en el plazo más breve posible.   Acompañamiento y supervisión a las familias que no están en tratamiento.  Desarrollar el Plan de Mejora Familiar, con familias que no aceptan o no precisan tratamiento.   Resolución de conflictos.  Atención especifica a menores y familias, usuarios de los  CAI , que afrontan situaciones de conflicto en su convivencia.   Soporte técnico a los profesionales y recursos que trabajan con menores.  Asesoramiento a profesionales en materia de protección de menores.   Prevención del maltrato infantil.  Acciones formativas dirigidas a los profesionales de educación y salud, y a entidades sociales para favorecer la detección temprana.    Seguimiento familiar una vez finalizada la atención.  Entrevistas a la familia para constatar su situación a los 6 y 12 meses una vez finalizada la intervención.  ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Carpetana (Línea 6) Bus: 119 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[ Intervención psicológica, social y educativa con menores en situación de riesgo social o desamparo y sus familias. ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f82806d66d296210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ZAIDA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">36</atributo>
+                <atributo nombre="ORIENTACION">EN EL CENTRO DE SERVICIOS SOCIALES ZAIDA</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28019</atributo>
+                <atributo nombre="BARRIO">SAN ISIDRO</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="COORDENADA-X">437640</atributo>
+                <atributo nombre="COORDENADA-Y">4471882</atributo>
+                <atributo nombre="LATITUD">40.39332622277917</atributo>
+                <atributo nombre="LONGITUD">-3.7360816376660386</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 624 105</atributo>
+                <atributo nombre="EMAIL">cai8@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionInfancia</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5426327</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Arganzuela.</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Atocha (Línea 1), Palos de la Frontera (Línea 3) Bus: 6, 8, 19, 27, 34, 45, 47, 55, 59, 69, 85, 86, 102, 247 Renfe: Atocha  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=84252a2257ff3210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MÉNDEZ ÁLVARO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">16</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO MENÉNDEZ PELAYO</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28045</atributo>
+                <atributo nombre="BARRIO">PALOS DE MOGUER</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+                <atributo nombre="COORDENADA-X">441443</atributo>
+                <atributo nombre="COORDENADA-Y">4473211</atributo>
+                <atributo nombre="LATITUD">40.40557510310644</atributo>
+                <atributo nombre="LONGITUD">-3.691396695437019</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 177 217</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6107406</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Carabanchel 1</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Marqués de Vadillo (Línea 5) Bus: 23, 34, 35, 116, 118, 119  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=4f5008c10a790310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BALEARES</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">18</atributo>
+                <atributo nombre="PUERTA">(COLEGIO PERÚ)</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28019</atributo>
+                <atributo nombre="BARRIO">COMILLAS</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="COORDENADA-X">439577</atributo>
+                <atributo nombre="COORDENADA-Y">4471918</atributo>
+                <atributo nombre="LATITUD">40.39379355659199</atributo>
+                <atributo nombre="LONGITUD">-3.713263165805392</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 602 980 / 913 602 981</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">171026</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Carabanchel 2</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 34, 108  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2bd1085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MONSEÑOR OSCAR ROMERO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">17</atributo>
+                <atributo nombre="PUERTA">(COLEGIO CAPITÁN CORTES)</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28025</atributo>
+                <atributo nombre="BARRIO">PUERTA BONITA</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="COORDENADA-X">437054</atributo>
+                <atributo nombre="COORDENADA-Y">4470509</atributo>
+                <atributo nombre="LATITUD">40.38091347738878</atributo>
+                <atributo nombre="LONGITUD">-3.7428500011276635</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 602 980 / 913 602 981</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">169324</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Centro 1</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ De lunes a viernes, de 16:00 a 20:00 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Noviciado (Línea 2) Bus: 147 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f333085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">POZAS</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">14</atributo>
+                <atributo nombre="ORIENTACION">EN CENTRO CRUZ ROJA</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">UNIVERSIDAD</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440171</atributo>
+                <atributo nombre="COORDENADA-Y">4475399</atributo>
+                <atributo nombre="LATITUD">40.42519509776946</atributo>
+                <atributo nombre="LONGITUD">-3.706580653418262</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 888 818 /  915 888 897           
+</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6108331</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Centro 2</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ De lunes a Viernes, de 16:00 a 20:00 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Tirso de Molina, Antón Martín (Línea 1) Bus: 6, 26, 32  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=502191e282890310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">OLMO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">4</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO ANTONO MORENO ROSALES</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">EMBAJADORES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440611</atributo>
+                <atributo nombre="COORDENADA-Y">4473872</atributo>
+                <atributo nombre="LATITUD">40.41147059852911</atributo>
+                <atributo nombre="LONGITUD">-3.701274799534028</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 885 067 / 915 885 068</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">170988</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Chamartín</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Concha Espina (Línea 9) Bus: 16, 29, 52 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7102085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PRADILLO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="ORIENTACION">EN ANTIGUO COLEGIO NICOLAS SALMERÓN</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28002</atributo>
+                <atributo nombre="BARRIO">CIUDAD JARDIN</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">442739</atributo>
+                <atributo nombre="COORDENADA-Y">4477980</atributo>
+                <atributo nombre="LATITUD">40.448626990491654</atributo>
+                <atributo nombre="LONGITUD">-3.6765545788553755</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 106 850 / 915 106 851</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6108345</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Chamberí</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Quevedo (Línea 2), Islas Filipinas (Línea 7) Bus: 2, 12, 202 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b2594d4263890310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FERNANDO EL CATOLICO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">16</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO FERNANDO EL CATÓLICO</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28015</atributo>
+                <atributo nombre="BARRIO">ARAPILES</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">439946</atributo>
+                <atributo nombre="COORDENADA-Y">4476388</atributo>
+                <atributo nombre="LATITUD">40.434088132840365</atributo>
+                <atributo nombre="LONGITUD">-3.709338271398449</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 499 936 / 915 499 934</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6107330</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Ciudad Lineal</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 21, 48, 146 Metro: Barrio de La Concepción (Línea 7) ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=486230faf8790310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">VIRGEN DEL VAL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO CARLOS V</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28027</atributo>
+                <atributo nombre="BARRIO">SAN PASCUAL</atributo>
+                <atributo nombre="DISTRITO">CIUDAD LINEAL</atributo>
+                <atributo nombre="COORDENADA-X">444608</atributo>
+                <atributo nombre="COORDENADA-Y">4476702</atributo>
+                <atributo nombre="LATITUD">40.43724098714693</atributo>
+                <atributo nombre="LONGITUD">-3.6544038942331123</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 402 360 / 914 402 360</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">170993</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Fuencarral-El Pardo</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 66, 124, 137 Metro: Fuencarral (Línea 10) ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=1e42085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">HOSPITALET DE LLOBREGAT</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="ORIENTACION">CASA DE LOS NIÑOS</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28034</atributo>
+                <atributo nombre="BARRIO">VALVERDE</atributo>
+                <atributo nombre="DISTRITO">FUENCARRAL-EL PARDO</atributo>
+                <atributo nombre="COORDENADA-X">441381</atributo>
+                <atributo nombre="COORDENADA-Y">4483073</atributo>
+                <atributo nombre="LATITUD">40.494411975075415</atributo>
+                <atributo nombre="LONGITUD">-3.6930393847546887</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 355 510 / 917 355 511</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">171058</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Hortaleza</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Manoteras (Línea 4), Hortaleza (Línea 4) Bus: 7, 29, 129 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso   A través del  Centro de Servicios Sociales del Distrito .   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6472085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CARRION DE LOS CONDES</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">73</atributo>
+                <atributo nombre="ORIENTACION">CENTRO JUVENIL SANTIAGO APOSTOL</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28033</atributo>
+                <atributo nombre="BARRIO">APOSTOL SANTIAGO</atributo>
+                <atributo nombre="DISTRITO">HORTALEZA</atributo>
+                <atributo nombre="COORDENADA-X">444325</atributo>
+                <atributo nombre="COORDENADA-Y">4481016</atributo>
+                <atributo nombre="LATITUD">40.4760846979538</atributo>
+                <atributo nombre="LONGITUD">-3.6581195337045274</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 821 563 / 913 821 561</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">171009</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Latina 1</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[  15 centros con ciber-aula (material informático, audiovisual y pedagógico).  Servicio de merienda.  Servicio de traslado desde el Centro Educativo al Centro de Día, previa valoración de los Servicios Sociales municipales.   Actividades lúdicas en periodo no lectivo y en horario de 10 a 14 horas, denominadas &quot;Escuelas Alternativas&quot; (15 días en vacaciones de verano, 3 días en navidad y 2 días en Semana Santa).   ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Eugenia de Montijo (Línea 5)  Bus: 25, 31. ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40 plazas. En los Centros de Día ubicados en los centros educativos se reservaran 14 plazas por centro para los menores escolarizados en dicho centro. Estas plazas son gestionadas por la Sección de Educación, no siendo necesaria la valoración por los profesionales de los Servicios Sociales.   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ba92085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">LOS YEBENES</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">241</atributo>
+                <atributo nombre="ORIENTACION">EN EL CENTRO DE SERVICIOS SOCIALES YÉBENES</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28047</atributo>
+                <atributo nombre="BARRIO">ALUCHE</atributo>
+                <atributo nombre="DISTRITO">LATINA</atributo>
+                <atributo nombre="COORDENADA-X">436442</atributo>
+                <atributo nombre="COORDENADA-Y">4471702</atributo>
+                <atributo nombre="LATITUD">40.39161399332091</atributo>
+                <atributo nombre="LONGITUD">-3.7501784949511983</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 196 500  / 917 196 506                        
+</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6105543</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Latina 2</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Carpetana (Línea 6) Bus: 25, 55, 119 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=26f33ce806290310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">NUESTRA SEÑORA DE VALVANERA</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">120</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO REPÚBLICA DE URUGAY</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28047</atributo>
+                <atributo nombre="BARRIO">LOS CARMENES</atributo>
+                <atributo nombre="DISTRITO">LATINA</atributo>
+                <atributo nombre="COORDENADA-X">437203</atributo>
+                <atributo nombre="COORDENADA-Y">4471902</atributo>
+                <atributo nombre="LATITUD">40.39347350069245</atributo>
+                <atributo nombre="LONGITUD">-3.741232360556739</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 196 500 / 917 196 506</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6106604</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Moratalaz</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 8, 20, 30, 45, 63, 71, 100, 143, E  Metro: Pavones (Línea 9) ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f2159136f2390310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ARROYO FONTARRON</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">24</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO FONTARRÓN</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28030</atributo>
+                <atributo nombre="BARRIO">PAVONES</atributo>
+                <atributo nombre="DISTRITO">MORATALAZ</atributo>
+                <atributo nombre="COORDENADA-X">446341</atributo>
+                <atributo nombre="COORDENADA-Y">4472013</atributo>
+                <atributo nombre="LATITUD">40.39511351284605</atributo>
+                <atributo nombre="LONGITUD">-3.6335755702199677</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 887 462 / 915 880 462            
+</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">170979</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Puente de Vallecas 1</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 102, 103, 111  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=01c2085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SUR</atributo>
+                <atributo nombre="CLASE-VIAL">RONDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">229</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO GARCÍA MORENTE</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28053</atributo>
+                <atributo nombre="BARRIO">ENTREVIAS</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+                <atributo nombre="COORDENADA-X">443615</atributo>
+                <atributo nombre="COORDENADA-Y">4469619</atributo>
+                <atributo nombre="LATITUD">40.37336648575158</atributo>
+                <atributo nombre="LONGITUD">-3.665482524950977</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 079 270 / 915 079 271</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6108383</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Puente de Vallecas 2</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 10, 310, 410  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e5b54d4263890310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PUERTO DE VIÑAMALA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO JAVIER DE MIGUEL</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28018</atributo>
+                <atributo nombre="BARRIO">PALOMERAS BAJAS</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+                <atributo nombre="COORDENADA-X">444258</atributo>
+                <atributo nombre="COORDENADA-Y">4470952</atributo>
+                <atributo nombre="LATITUD">40.385418305795156</atributo>
+                <atributo nombre="LONGITUD">-3.658025612717286</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 571 900</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6106345</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Retiro</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.  ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Ibiza (Línea 9) Bus: 15, 20, 26, 61, 63, 69, 152, 202, 215  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=81aed03950390310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">LOPE DE RUEDA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">48</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO NUESTRA SEÑORA DE LA ALMUDENA</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28009</atributo>
+                <atributo nombre="BARRIO">IBIZA</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">442602</atributo>
+                <atributo nombre="COORDENADA-Y">4474694</atributo>
+                <atributo nombre="LATITUD">40.419015614377635</atributo>
+                <atributo nombre="LONGITUD">-3.6778727223264904</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 571 300 / 915 570 514</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">171083</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito San Blas 1</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Bus: 28, 48, 140 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40 plazas   Acceso   A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=57e2085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MUSAS</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">9</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO LA ALAMEDA</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28022</atributo>
+                <atributo nombre="BARRIO">CANILLEJAS</atributo>
+                <atributo nombre="DISTRITO">SAN BLAS-CANILLEJAS</atributo>
+                <atributo nombre="COORDENADA-X">448567</atributo>
+                <atributo nombre="COORDENADA-Y">4476760</atributo>
+                <atributo nombre="LATITUD">40.43801828833293</atributo>
+                <atributo nombre="LONGITUD">-3.6077320566891196</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 717 384</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6107166</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito San Blas 2</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Simancas (Línea 7) Bus: 4, 38, 48, 70, 109  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40 plazas   Acceso   A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=53c6861400690310VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CASTILLO DE UCLES</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">28</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO REPÚBLICA DE CHILE</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28037</atributo>
+                <atributo nombre="BARRIO">SIMANCAS</atributo>
+                <atributo nombre="DISTRITO">SAN BLAS-CANILLEJAS</atributo>
+                <atributo nombre="COORDENADA-X">447113</atributo>
+                <atributo nombre="COORDENADA-Y">4475669</atributo>
+                <atributo nombre="LATITUD">40.42809852476456</atributo>
+                <atributo nombre="LONGITUD">-3.6247839198679577</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 717 384</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5426500</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Tetuán 1</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Ventilla (Línea 9) Bus: 42 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del Centro de Servicios Sociales correspondiente según domicilio: CENTRO DE SERVICIOS SOCIALES &quot;MARÍA ZAYAS&quot; Travesia de Maria Zayas s/n  Información y citas 914 492 140/41  cssmariazayas@madrid.es  CENTRO DE SERVICIOS SOCIALES &quot;VICENTE FERRER&quot; C/ General Aranda, 30  Información y citas 913 148 992  cssvicenteferrer@madrid.es    ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=cd24f7250cff3210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">GENERAL ARANDA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">30</atributo>
+                <atributo nombre="ORIENTACION">CENTRO SOCIAL COMUNITARIO JOSEFA AMAR</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28029</atributo>
+                <atributo nombre="BARRIO">ALMENARA</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">441273</atributo>
+                <atributo nombre="COORDENADA-Y">4480718</atributo>
+                <atributo nombre="LATITUD">40.47318957937898</atributo>
+                <atributo nombre="LONGITUD">-3.6940951975368956</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 148 992                
+</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6106536</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Tetuán 2</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16 a 20 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Francos Rodríguez Bus: 44, 127  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del Centro de Servicios Sociales correspondiente según domicilio: CENTRO DE SERVICIOS SOCIALES &quot;MARÍA ZAYAS&quot; Travesia de Maria Zayas s/n  Información y citas 914 492 140/41   cssmariazayas@madrid.es  CENTRO DE SERVICIOS SOCIALES &quot;VICENTE FERRER&quot; C/ General Aranda, 30  Información y citas 913 148 992   cssvicenteferrer@madrid.es    ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0f2c2d6702390310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">DOCTOR FEDERICO RUBIO Y GALI</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">53</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO DOCTOR FEDERICO RUBIO</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28039</atributo>
+                <atributo nombre="BARRIO">BELLAS VISTAS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">439792</atributo>
+                <atributo nombre="COORDENADA-Y">4478425</atributo>
+                <atributo nombre="LATITUD">40.45242712056568</atributo>
+                <atributo nombre="LONGITUD">-3.7113472292938066</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 492 140 / 914 492 141                 
+</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6108339</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Usera 1</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Usera (Línea 6)  Bus: 6, 23, 47, 78, 247 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del Cen tro de Servicios Sociales del Distrito .   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2e3591e282890310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MIRASIERRA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">29</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO JUAN SEBASTIAN EL CANO</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28026</atributo>
+                <atributo nombre="BARRIO">MOSCARDO</atributo>
+                <atributo nombre="DISTRITO">USERA</atributo>
+                <atributo nombre="COORDENADA-X">440294</atributo>
+                <atributo nombre="COORDENADA-Y">4471385</atributo>
+                <atributo nombre="LATITUD">40.38904382319174</atributo>
+                <atributo nombre="LONGITUD">-3.704765272620041</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 656 020 / 915 656 021                   
+</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5426510</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Usera 2</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 78, 81, 121, 131  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=44ecf15cbdff3210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">DOCTOR TOLOSA LATOUR</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">13</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO CIUDAD DE JAÉN</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28041</atributo>
+                <atributo nombre="BARRIO">ORCASUR</atributo>
+                <atributo nombre="DISTRITO">USERA</atributo>
+                <atributo nombre="COORDENADA-X">440464</atributo>
+                <atributo nombre="COORDENADA-Y">4469603</atributo>
+                <atributo nombre="LATITUD">40.373002813717804</atributo>
+                <atributo nombre="LONGITUD">-3.70259563865373</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 656 020 / 915 656 021            
+</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5426540</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Vicalvaro</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 4, 100, 106, 130  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b592f15cbdff3210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">EZCARAY</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO DOCTOR SEVERO OCHOA</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28032</atributo>
+                <atributo nombre="BARRIO">AMBROZ</atributo>
+                <atributo nombre="DISTRITO">VICALVARO</atributo>
+                <atributo nombre="COORDENADA-X">448041</atributo>
+                <atributo nombre="COORDENADA-Y">4473688</atributo>
+                <atributo nombre="LATITUD">40.410311030784285</atributo>
+                <atributo nombre="LONGITUD">-3.6136821061928113</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 753 150            
+</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6107095</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Villa de Vallecas</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas, seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 58, 103, 142  Metro: Villa de Vallecas (Línea 1) ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .   ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=fa89861400690310VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SUERTE</atributo>
+                <atributo nombre="CLASE-VIAL">CAMINO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO FRANCISCO FATOU</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28031</atributo>
+                <atributo nombre="BARRIO">CASCO H.VALLECAS</atributo>
+                <atributo nombre="DISTRITO">VILLA DE VALLECAS</atributo>
+                <atributo nombre="COORDENADA-X">447611</atributo>
+                <atributo nombre="COORDENADA-Y">4469880</atributo>
+                <atributo nombre="LATITUD">40.37597903288599</atributo>
+                <atributo nombre="LONGITUD">-3.6184358604020184</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 807 940 / 913 807 568                
+</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">171077</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Villaverde 1</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad). Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: San Cristobal (Línea 3) Bus: 59, 79 Cercanías Renfe: San Cristóbal de los Angeles  ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ad03085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BENIMAMET</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">109</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO NAVAS DE TOLOSA</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28021</atributo>
+                <atributo nombre="BARRIO">SAN CRISTOBAL</atributo>
+                <atributo nombre="DISTRITO">VILLAVERDE</atributo>
+                <atributo nombre="COORDENADA-X">441908</atributo>
+                <atributo nombre="COORDENADA-Y">4466410</atributo>
+                <atributo nombre="LATITUD">40.344340447262475</atributo>
+                <atributo nombre="LONGITUD">-3.685296004324213</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 109 356            
+</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6107234</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores (de 3 a 12 años) del Distrito Villaverde 2</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad).  Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Bus: 22, 79, 86, 130, 131 Cercanías Renfe: Puente Alcocer ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Objetivos  Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y el ocio en horario extraescolar, apoyo socioeducativo a menores, especialmente de aquellos que se encuentren en situación de desventaja social.   Beneficiarios  Menores de 3 a 12 años.   Plazas  40   Acceso  A través del  Centro de Servicios Sociales del Distrito .  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0877554255790310VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CARABANCHEL A VILLAVERDE</atributo>
+                <atributo nombre="CLASE-VIAL">CARRETERA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">109</atributo>
+                <atributo nombre="ORIENTACION">COLEGIO CRISTOBAL COLÓN</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28041</atributo>
+                <atributo nombre="BARRIO">SAN ANDRES</atributo>
+                <atributo nombre="DISTRITO">VILLAVERDE</atributo>
+                <atributo nombre="COORDENADA-X">440150</atributo>
+                <atributo nombre="COORDENADA-Y">4467091</atributo>
+                <atributo nombre="LATITUD">40.35035079998796</atributo>
+                <atributo nombre="LONGITUD">-3.706057974681441</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 109 356</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">173540</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores Labouré (de 3 a 12 años) del Distrito Moratalaz</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Centro no residencial para menores de 3 a 12 años en desventaja social destinado a la ocupación de ocio y tiempo libre en horario extraescolar, ofreciendo apoyo socio-educativo para favorecer su desarrollo integral. Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor. Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Vinateros (Línea 9) Bus: 71 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Beneficiarios  Menores de 3 a 12 años en situación de riesgo social del distrito de Moratalaz.   Plazas  30  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9083085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MARROQUINA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">45</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28030</atributo>
+                <atributo nombre="BARRIO">MARROQUINA</atributo>
+                <atributo nombre="DISTRITO">MORATALAZ</atributo>
+                <atributo nombre="COORDENADA-X">445097</atributo>
+                <atributo nombre="COORDENADA-Y">4473502</atributo>
+                <atributo nombre="LATITUD">40.408446072797005</atributo>
+                <atributo nombre="LONGITUD">-3.648361782249456</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">91 439 01 23</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">173553</atributo>
+            <atributo nombre="NOMBRE">Centro de Día para Menores Rosalía Rendú (de 5 a 16 años) del Distrito Centro</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 16:00 a 20:00 horas]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Centro no residencial destinado a la organización de actividades para la ocupación del tiempo libre y ocio en horario extraescolar, especialmente para menores que se encuentran en situación de desventaja social. Merienda, apoyo escolar, actividades lúdicas, actividades culturales y salidas. Seguimiento individualizado del menor, acompañamiento y traslado desde el colegio (según disponibilidad). Apoyo y orientación a las familias de los menores. ]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[ Metro: Tirso de Molina (Línea 1), La Latina (Línea 5) Bus: M1, 6, 17, 18, 23, 26, 32, 35, 65 ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Acceso  A través del Centro Municipal de Servicios Sociales del distrito Centro.    Plazas  35  ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e6a3085f5181c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ESPADA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">9</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">EMBAJADORES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440346</atributo>
+                <atributo nombre="COORDENADA-Y">4473876</atributo>
+                <atributo nombre="LATITUD">40.4114877909952</atributo>
+                <atributo nombre="LONGITUD">-3.7043747060733887</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 271 638</atributo>
+                <atributo nombre="EMAIL">osrosaliarendu@gmail.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosDiaMenores</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5505290</atributo>
+            <atributo nombre="NOMBRE">Puntos de Encuentro Familiar (PEF)</atributo>
+            <atributo nombre="HORARIO"><![CDATA[ De martes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados y domingos de 10:00 a 19:15 horas. ]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[ Los Puntos de Encuentro Familiar son servicios destinados a favorecer el derecho de los menores a relacionarse con sus progenitores. Son lugares físicos idóneos, neutrales y seguros para facilitar el régimen de visitas de los menores con sus familias.  Acceso : la derivación a los puntos de encuentros se realiza fundamentalmente desde los órganos judiciales (Juzgados de Familia, Instrucción y Violencia sobre la Mujer). ]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[   Actuaciones  Facilitan la entrega y recogida de los menores para realizar encuentros con sus familiares en el mismo día, en fines de semana o en periodos vacacionales. Visitas dentro del centro: pueden ser supervisadas con apoyo técnico y controladas. Orientación familiar y apoyo: adaptación a la nueva situación y promoción de la corresponsabilidad parental.   Ámbito de actuación:  supradistrital. Zona 1: Salamanca, Chamartín, Tetuán, Chamberí, Fuencarral, Moncloa y Hortaleza. Zona 2: Centro, Arganzuela, Latina, Carabanchel, Usera y Villaverde. Zona 3: Retiro, Puente de Vallecas, Moratalaz, Ciudad Lineal, Villa de Vallecas, Vicálvaro, San Blas y Barajas.     ]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=edc72f99a9375210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">JOSE ORTEGA Y GASSET</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">100</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">LISTA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">443204</atributo>
+                <atributo nombre="COORDENADA-Y">4475856</atributo>
+                <atributo nombre="LATITUD">40.42952490187533</atributo>
+                <atributo nombre="LONGITUD">-3.670881135626959</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 883 273</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/CentrosAtencionSocialMenoresFamilias/CentrosOrientacionAtencionFamilia</atributo>
+        </atributos>
+    </contenido>
+</Contenidos>
+
